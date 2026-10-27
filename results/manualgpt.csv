@@ -1,0 +1,1001 @@
+id,loan_amnt,annual_inc,int_rate,grade,sub_grade,fico_score,fico_band,dti,income_band,purpose,addr_state,loan_status,review_category
+68407277,3600.00,55000.00,13.99,C,C4,677,Good,5.91,"Lower-Middle Income",debt_consolidation,PA,"Fully Paid",Standard
+68355089,24700.00,65000.00,11.99,C,C1,717,Good,16.06,"Middle Income",small_business,SD,"Fully Paid",Standard
+68341763,20000.00,63000.00,10.78,B,B4,697,Good,10.78,"Middle Income",home_improvement,IL,"Fully Paid",Standard
+66310712,35000.00,110000.00,14.85,C,C5,787,"Very Good",17.06,"High Income",debt_consolidation,NJ,Current,Standard
+68476807,10400.00,104433.00,22.45,F,F1,697,Good,25.37,"High Income",major_purchase,PA,"Fully Paid","Manual Review"
+68426831,11950.00,34000.00,13.44,C,C3,692,Good,10.20,"Lower-Middle Income",debt_consolidation,GA,"Fully Paid",Standard
+68476668,20000.00,180000.00,9.17,B,B2,682,Good,14.67,"High Income",debt_consolidation,MN,"Fully Paid",Standard
+67275481,20000.00,85000.00,8.49,B,B1,707,Good,17.61,"Middle Income",major_purchase,SC,"Fully Paid",Standard
+68466926,10000.00,85000.00,6.49,A,A2,687,Good,13.07,"Middle Income",credit_card,PA,"Fully Paid",Standard
+68616873,8000.00,42000.00,11.48,B,B5,702,Good,34.80,"Lower-Middle Income",credit_card,RI,"Fully Paid","Manual Review"
+68356421,22400.00,95000.00,12.88,C,C2,712,Good,22.98,"Middle Income",debt_consolidation,SC,Current,Standard
+68426545,16000.00,70000.00,12.88,C,C2,722,Good,26.40,"Middle Income",debt_consolidation,TX,Current,Standard
+68338832,1400.00,64000.00,12.88,C,C2,702,Good,34.95,"Middle Income",other,NC,"Fully Paid","Manual Review"
+66624733,18000.00,150000.00,19.48,E,E2,667,Fair,9.39,"High Income",debt_consolidation,CA,"Charged Off","Manual Review"
+68466961,28000.00,92000.00,6.49,A,A2,722,Good,21.60,"Middle Income",debt_consolidation,NC,"Fully Paid",Standard
+68354783,9600.00,60000.00,7.49,A,A4,697,Good,22.44,"Middle Income",credit_card,SC,"Fully Paid",Standard
+68466916,25000.00,109000.00,7.49,A,A4,747,"Very Good",26.02,"High Income",debt_consolidation,VA,"Fully Paid",Standard
+68577849,18000.00,112000.00,11.99,C,C1,802,Excellent,8.68,"High Income",debt_consolidation,AZ,"Fully Paid",Standard
+68506798,23000.00,64000.00,8.49,B,B1,702,Good,18.28,"Middle Income",credit_card,NY,Current,Standard
+68495092,8650.00,55000.00,19.89,E,E3,677,Good,25.49,"Lower-Middle Income",debt_consolidation,IN,"Fully Paid","Manual Review"
+68566886,29900.00,65000.00,12.88,C,C2,717,Good,21.77,"Middle Income",debt_consolidation,MD,"Fully Paid",Standard
+68009401,16000.00,48000.00,14.85,C,C5,687,Good,33.18,"Lower-Middle Income",credit_card,SC,"Fully Paid","Manual Review"
+68476702,28000.00,125000.00,13.44,C,C3,697,Good,7.49,"High Income",debt_consolidation,NY,"Fully Paid",Standard
+68436666,5000.00,79000.00,13.44,C,C3,667,Fair,12.70,"Middle Income",credit_card,MD,"Fully Paid",Standard
+68476715,6000.00,100000.00,7.49,A,A4,697,Good,13.28,"High Income",debt_consolidation,TX,"Fully Paid",Standard
+67849662,4225.00,35000.00,14.85,C,C5,727,Good,15.22,"Lower-Middle Income",debt_consolidation,KS,"Charged Off",Standard
+68596180,20000.00,65000.00,5.32,A,A1,837,Excellent,18.83,"Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+68526907,16000.00,109000.00,17.97,D,D4,682,Good,23.35,"High Income",debt_consolidation,NM,"Fully Paid","Manual Review"
+68607141,17600.00,88000.00,5.32,A,A1,782,"Very Good",26.59,"Middle Income",credit_card,KS,"Fully Paid",Standard
+68526883,15000.00,44000.00,5.32,A,A1,687,Good,15.34,"Lower-Middle Income",home_improvement,VA,"Fully Paid",Standard
+67715283,16000.00,65000.00,12.88,C,C2,677,Good,18.96,"Middle Income",small_business,AL,"Charged Off",Standard
+68341789,24250.00,75000.00,24.24,F,F3,662,Fair,20.84,"Middle Income",debt_consolidation,NY,"Charged Off","Manual Review"
+68533595,12000.00,98000.00,10.78,B,B4,692,Good,24.04,"Middle Income",debt_consolidation,WA,"Fully Paid",Standard
+68415473,25000.00,79000.00,13.99,C,C4,732,Good,34.53,"Middle Income",debt_consolidation,MD,"Charged Off","Manual Review"
+68537655,16800.00,118000.00,12.88,C,C2,682,Good,34.29,"High Income",debt_consolidation,MO,Current,"Manual Review"
+68446769,7000.00,59000.00,7.49,A,A4,732,Good,13.06,"Lower-Middle Income",credit_card,MD,"Fully Paid",Standard
+68367011,21000.00,52000.00,13.99,C,C4,682,Good,14.47,"Lower-Middle Income",credit_card,OH,"Fully Paid",Standard
+68407301,27500.00,195000.00,14.85,C,C5,702,Good,6.79,"High Income",other,LA,"Fully Paid",Standard
+68356614,7200.00,72500.00,11.48,B,B5,727,Good,8.47,"Middle Income",home_improvement,GA,"Fully Paid",Standard
+68426865,20000.00,110000.00,14.85,C,C5,692,Good,12.45,"High Income",credit_card,IL,"Fully Paid",Standard
+68476676,20000.00,70000.00,15.77,D,D1,682,Good,22.21,"Middle Income",house,FL,"Fully Paid","Manual Review"
+68566951,10000.00,55000.00,17.97,D,D4,687,Good,35.70,"Lower-Middle Income",credit_card,CO,"Charged Off","Manual Review"
+68615044,16000.00,142000.00,13.99,C,C4,682,Good,17.74,"High Income",debt_consolidation,CA,Current,Standard
+68527009,20000.00,75000.00,9.80,B,B3,727,Good,23.45,"Middle Income",debt_consolidation,WA,"Fully Paid",Standard
+68547583,8650.00,100000.00,5.32,A,A1,752,"Very Good",7.28,"High Income",credit_card,IN,"Fully Paid",Standard
+68587709,21000.00,54649.00,13.44,C,C3,672,Good,12.14,"Lower-Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68446771,7200.00,55000.00,15.77,D,D1,682,Good,17.35,"Lower-Middle Income",debt_consolidation,NY,"Fully Paid","Manual Review"
+66796130,8800.00,92000.00,9.80,B,B3,667,Fair,5.18,"Middle Income",credit_card,MI,"Fully Paid",Standard
+68617034,14650.00,43160.00,20.50,E,E4,692,Good,21.44,"Lower-Middle Income",debt_consolidation,OH,Current,"Manual Review"
+68387134,2500.00,50000.00,17.27,D,D3,672,Good,17.60,"Lower-Middle Income",other,FL,"Fully Paid","Manual Review"
+68566925,11000.00,69000.00,9.17,B,B2,682,Good,21.34,"Middle Income",credit_card,OH,"Fully Paid",Standard
+68516838,23850.00,68046.00,17.27,D,D3,667,Fair,24.71,"Middle Income",debt_consolidation,VA,Current,"Manual Review"
+68476697,15700.00,48000.00,16.59,D,D2,687,Good,29.13,"Lower-Middle Income",credit_card,LA,Current,"Manual Review"
+68566856,28800.00,60000.00,11.99,C,C1,802,Excellent,18.01,"Middle Income",debt_consolidation,FL,Current,Standard
+68543413,10000.00,91392.00,12.88,C,C2,712,Good,9.44,"Middle Income",house,MO,"Fully Paid",Standard
+68366663,24000.00,77900.00,9.80,B,B3,742,"Very Good",10.24,"Middle Income",home_improvement,TN,Current,Standard
+68416916,28000.00,75000.00,18.49,D,D5,687,Good,31.88,"Middle Income",debt_consolidation,IN,"Fully Paid","Manual Review"
+68444620,35000.00,128000.00,11.99,C,C1,687,Good,6.46,"High Income",home_improvement,DC,"Fully Paid",Standard
+68082535,7200.00,50000.00,9.17,B,B2,677,Good,19.25,"Lower-Middle Income",debt_consolidation,MA,"Fully Paid",Standard
+68466995,10000.00,40100.00,7.91,A,A5,682,Good,10.81,"Lower-Middle Income",credit_card,OH,"Fully Paid",Standard
+68584507,16000.00,42000.00,13.44,C,C3,672,Good,9.60,"Lower-Middle Income",credit_card,MA,"Charged Off",Standard
+68466924,21875.00,47590.00,11.99,C,C1,702,Good,17.76,"Lower-Middle Income",credit_card,FL,"Fully Paid",Standard
+68367009,14025.00,39000.00,18.49,D,D5,677,Good,18.00,"Lower-Middle Income",debt_consolidation,WI,"Fully Paid","Manual Review"
+68475450,35000.00,106000.00,12.88,C,C2,732,Good,17.36,"High Income",debt_consolidation,AL,"Charged Off",Standard
+68525943,20000.00,145000.00,12.88,C,C2,697,Good,12.28,"High Income",debt_consolidation,RI,"Fully Paid",Standard
+68340446,14000.00,60000.00,14.85,C,C5,692,Good,24.29,"Middle Income",debt_consolidation,AZ,"Charged Off",Standard
+68615169,16000.00,62000.00,8.49,B,B1,722,Good,28.92,"Middle Income",credit_card,CA,"In Grace Period",Standard
+68397043,28000.00,85000.00,14.85,C,C5,672,Good,28.52,"Middle Income",debt_consolidation,GA,Current,Standard
+68506862,20000.00,70000.00,13.99,C,C4,682,Good,16.90,"Middle Income",debt_consolidation,MD,"Charged Off",Standard
+68341799,17600.00,44000.00,19.89,E,E3,682,Good,17.56,"Lower-Middle Income",credit_card,FL,Current,"Manual Review"
+68487261,4200.00,102500.00,13.44,C,C3,702,Good,26.21,"High Income",debt_consolidation,NY,"Fully Paid",Standard
+68597047,19000.00,75000.00,14.85,C,C5,667,Fair,13.09,"Middle Income",credit_card,NY,"Fully Paid",Standard
+68366999,15850.00,45000.00,23.13,F,F2,757,"Very Good",34.85,"Lower-Middle Income",debt_consolidation,OH,"Fully Paid","Manual Review"
+68506885,10000.00,42500.00,11.99,C,C1,707,Good,31.04,"Lower-Middle Income",debt_consolidation,IN,Current,"Manual Review"
+68394562,30000.00,175000.00,15.77,D,D1,727,Good,18.50,"High Income",home_improvement,OH,"Fully Paid","Manual Review"
+68416953,1500.00,45000.00,6.49,A,A2,747,"Very Good",16.11,"Lower-Middle Income",vacation,HI,"Fully Paid",Standard
+68587652,25000.00,150000.00,5.32,A,A1,797,"Very Good",9.54,"High Income",credit_card,VT,"Fully Paid",Standard
+68407333,16250.00,50000.00,13.44,C,C3,692,Good,34.95,"Lower-Middle Income",debt_consolidation,NY,Current,"Manual Review"
+68466066,20200.00,60000.00,18.49,D,D5,722,Good,34.84,"Middle Income",debt_consolidation,CA,"Charged Off","Manual Review"
+68436934,23975.00,70000.00,19.89,E,E3,687,Good,33.20,"Middle Income",credit_card,VA,"Charged Off","Manual Review"
+68617057,15000.00,65000.00,10.78,B,B4,722,Good,29.28,"Middle Income",debt_consolidation,AL,"Fully Paid",Standard
+68536799,10000.00,41600.00,10.78,B,B4,697,Good,15.78,"Lower-Middle Income",debt_consolidation,IN,"Fully Paid",Standard
+68357012,15000.00,110000.00,8.49,B,B1,672,Good,13.24,"High Income",credit_card,NJ,"Fully Paid",Standard
+68376217,23100.00,110000.00,20.50,E,E4,662,Fair,20.43,"High Income",car,DE,"Charged Off","Manual Review"
+68526942,27300.00,65000.00,17.27,D,D3,662,Fair,25.63,"Middle Income",home_improvement,NY,"Charged Off","Manual Review"
+68396080,25000.00,135000.00,11.48,B,B5,707,Good,4.65,"High Income",credit_card,TX,"Fully Paid",Standard
+68385794,15000.00,40000.00,10.78,B,B4,672,Good,10.17,"Lower-Middle Income",credit_card,TX,"Fully Paid",Standard
+68374676,10000.00,30000.00,16.59,D,D2,717,Good,30.84,"Lower-Middle Income",debt_consolidation,OH,"Fully Paid","Manual Review"
+68547679,18500.00,70000.00,12.88,C,C2,677,Good,13.20,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68537594,5000.00,32000.00,7.91,A,A5,687,Good,13.73,"Lower-Middle Income",credit_card,OH,"Fully Paid",Standard
+68565856,9000.00,50000.00,9.17,B,B2,802,Excellent,11.98,"Lower-Middle Income",debt_consolidation,KS,"Fully Paid",Standard
+68367006,11000.00,85000.00,6.49,A,A2,757,"Very Good",15.00,"Middle Income",credit_card,MA,"Fully Paid",Standard
+68426699,20000.00,55000.00,6.49,A,A2,752,"Very Good",29.15,"Lower-Middle Income",debt_consolidation,TN,"Fully Paid",Standard
+68377020,15000.00,80000.00,5.32,A,A1,777,"Very Good",20.18,"Middle Income",debt_consolidation,VA,"Fully Paid",Standard
+68446746,12000.00,53750.00,5.32,A,A1,702,Good,15.30,"Lower-Middle Income",debt_consolidation,AZ,"Fully Paid",Standard
+68537564,8000.00,45000.00,10.78,B,B4,672,Good,21.23,"Lower-Middle Income",debt_consolidation,MI,"Fully Paid",Standard
+68446784,12000.00,40000.00,10.78,B,B4,667,Fair,31.95,"Lower-Middle Income",credit_card,NJ,"Fully Paid","Manual Review"
+68376533,18000.00,75000.00,7.49,A,A4,717,Good,25.65,"Middle Income",debt_consolidation,NH,"Fully Paid",Standard
+68476714,3600.00,85000.00,11.48,B,B5,677,Good,17.44,"Middle Income",debt_consolidation,VA,"Fully Paid",Standard
+66615254,7200.00,20000.00,17.27,D,D3,707,Good,13.21,"Low Income",debt_consolidation,MA,"Charged Off","Manual Review"
+68396484,15000.00,77213.00,13.44,C,C3,672,Good,18.17,"Middle Income",credit_card,FL,"Fully Paid",Standard
+68416256,5000.00,72000.00,9.80,B,B3,712,Good,6.52,"Middle Income",other,NC,"Fully Paid",Standard
+68446093,11550.00,38000.00,16.59,D,D2,702,Good,21.07,"Lower-Middle Income",credit_card,OH,"Charged Off","Manual Review"
+66583801,33600.00,104000.00,10.78,B,B4,692,Good,14.01,"High Income",debt_consolidation,OH,"Fully Paid",Standard
+68466922,17925.00,39000.00,17.27,D,D3,722,Good,27.78,"Lower-Middle Income",debt_consolidation,OH,Current,"Manual Review"
+68585839,17475.00,39750.00,13.99,C,C4,697,Good,23.58,"Lower-Middle Income",debt_consolidation,IL,"Charged Off",Standard
+68476734,9000.00,47000.00,8.49,B,B1,677,Good,8.43,"Lower-Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68506789,12000.00,65000.00,9.80,B,B3,787,"Very Good",23.84,"Middle Income",debt_consolidation,KS,"Fully Paid",Standard
+68506793,4000.00,44500.00,9.17,B,B2,672,Good,15.83,"Lower-Middle Income",debt_consolidation,NE,"Fully Paid",Standard
+68496036,10500.00,70100.00,15.77,D,D1,662,Fair,8.51,"Middle Income",credit_card,KS,"Fully Paid","Manual Review"
+68516507,14000.00,100000.00,9.80,B,B3,687,Good,15.97,"High Income",medical,OH,"Fully Paid",Standard
+68377006,6000.00,105000.00,7.91,A,A5,687,Good,14.45,"High Income",car,OH,"Fully Paid",Standard
+68436917,16000.00,90000.00,12.88,C,C2,702,Good,6.39,"Middle Income",home_improvement,CT,Current,Standard
+68416935,15000.00,92000.00,9.80,B,B3,682,Good,13.89,"Middle Income",debt_consolidation,OR,"Fully Paid",Standard
+68606528,12000.00,39400.00,9.17,B,B2,707,Good,26.32,"Lower-Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68446820,10000.00,33000.00,11.48,B,B5,712,Good,21.75,"Lower-Middle Income",debt_consolidation,IN,"Fully Paid",Standard
+68356922,4200.00,32000.00,13.99,C,C4,707,Good,31.02,"Lower-Middle Income",other,TN,"Fully Paid","Manual Review"
+68566702,35000.00,120000.00,20.50,E,E4,702,Good,35.69,"High Income",debt_consolidation,GA,"Fully Paid","Manual Review"
+68426668,5475.00,108000.00,18.99,E,E1,672,Good,33.47,"High Income",debt_consolidation,FL,"Charged Off","Manual Review"
+68008783,16000.00,60000.00,7.91,A,A5,732,Good,28.58,"Middle Income",debt_consolidation,FL,Current,Standard
+68603265,6000.00,38700.00,13.44,C,C3,692,Good,23.26,"Lower-Middle Income",debt_consolidation,NC,"Fully Paid",Standard
+68546562,24000.00,75000.00,9.17,B,B2,662,Fair,10.11,"Middle Income",debt_consolidation,RI,"Fully Paid",Standard
+68387003,10000.00,60000.00,12.88,C,C2,717,Good,3.30,"Middle Income",debt_consolidation,WA,"Fully Paid",Standard
+68453388,6900.00,80000.00,19.89,E,E3,667,Fair,9.57,"Middle Income",debt_consolidation,NY,"Fully Paid","Manual Review"
+68436772,22400.00,48000.00,9.80,B,B3,707,Good,28.48,"Lower-Middle Income",credit_card,VA,Current,Standard
+68356797,15975.00,58800.00,16.59,D,D2,667,Fair,20.45,"Lower-Middle Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+67799534,21600.00,54000.00,13.44,C,C3,692,Good,17.64,"Lower-Middle Income",debt_consolidation,WI,"Fully Paid",Standard
+68366973,24000.00,82193.00,13.99,C,C4,697,Good,29.92,"Middle Income",credit_card,IN,Current,Standard
+68376942,14400.00,73320.00,19.48,E,E2,662,Fair,17.02,"Middle Income",debt_consolidation,NY,"Charged Off","Manual Review"
+68339735,8000.00,42000.00,13.99,C,C4,707,Good,23.26,"Lower-Middle Income",other,OR,"Fully Paid",Standard
+67355663,7000.00,83000.00,13.99,C,C4,682,Good,21.96,"Middle Income",debt_consolidation,DE,"Fully Paid",Standard
+68407187,20000.00,55000.00,10.78,B,B4,742,"Very Good",36.94,"Lower-Middle Income",debt_consolidation,AL,"Fully Paid","Manual Review"
+68476511,25825.00,68000.00,26.06,F,F5,677,Good,31.68,"Middle Income",debt_consolidation,MD,"Charged Off","Manual Review"
+68366965,24575.00,92000.00,22.45,F,F1,727,Good,24.16,"Middle Income",debt_consolidation,OH,"Fully Paid","Manual Review"
+67267171,3200.00,30407.00,8.49,B,B1,712,Good,20.61,"Lower-Middle Income",medical,MN,"Fully Paid",Standard
+68406292,22875.00,137000.00,15.77,D,D1,702,Good,32.30,"High Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68616867,16000.00,80000.00,14.85,C,C5,702,Good,19.59,"Middle Income",debt_consolidation,TX,Current,Standard
+68547447,35000.00,125000.00,13.44,C,C3,712,Good,24.19,"High Income",debt_consolidation,MN,"Fully Paid",Standard
+68547538,2400.00,52000.00,17.27,D,D3,672,Good,28.38,"Lower-Middle Income",home_improvement,IN,"Fully Paid","Manual Review"
+68516545,25000.00,132000.00,7.49,A,A4,747,"Very Good",13.83,"High Income",debt_consolidation,MI,"Fully Paid",Standard
+68426681,8800.00,55000.00,12.88,C,C2,717,Good,35.52,"Lower-Middle Income",credit_card,MA,"Fully Paid","Manual Review"
+68446591,2500.00,16488.00,11.48,B,B5,772,"Very Good",38.06,"Low Income",debt_consolidation,CT,"Fully Paid","Manual Review"
+68596872,8000.00,50000.00,5.32,A,A1,717,Good,14.86,"Lower-Middle Income",credit_card,MI,"Fully Paid",Standard
+68376953,20000.00,78000.00,11.99,C,C1,707,Good,27.10,"Middle Income",debt_consolidation,AL,"Charged Off",Standard
+68476522,35000.00,110000.00,12.88,C,C2,697,Good,13.39,"High Income",major_purchase,MD,"Charged Off",Standard
+68537498,15000.00,45000.00,7.49,A,A4,712,Good,10.67,"Lower-Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68496996,16000.00,70000.00,15.77,D,D1,707,Good,8.78,"Middle Income",debt_consolidation,NJ,"Charged Off","Manual Review"
+68375899,10800.00,40000.00,13.99,C,C4,667,Fair,26.13,"Lower-Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68433333,7500.00,15000.00,17.97,D,D4,687,Good,37.20,"Low Income",debt_consolidation,FL,"Fully Paid","Manual Review"
+68376899,16000.00,63000.00,10.78,B,B4,672,Good,35.19,"Middle Income",debt_consolidation,NY,"Charged Off","Manual Review"
+68416736,9000.00,49000.00,5.32,A,A1,757,"Very Good",21.63,"Lower-Middle Income",credit_card,CA,"Fully Paid",Standard
+68339774,9500.00,28000.00,15.77,D,D1,697,Good,27.95,"Low Income",other,MI,"Fully Paid","Manual Review"
+68376501,10000.00,25000.00,7.91,A,A5,742,"Very Good",29.91,"Low Income",debt_consolidation,CA,"Charged Off",Standard
+68566760,6000.00,49000.00,7.91,A,A5,797,"Very Good",17.92,"Lower-Middle Income",debt_consolidation,CO,"Fully Paid",Standard
+68487157,15600.00,52000.00,13.44,C,C3,722,Good,15.37,"Lower-Middle Income",major_purchase,NY,"Fully Paid",Standard
+68487073,35000.00,90000.00,8.49,B,B1,752,"Very Good",13.36,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68132441,5000.00,78000.00,11.48,B,B5,702,Good,21.21,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68356747,20400.00,75000.00,18.49,D,D5,727,Good,38.65,"Middle Income",credit_card,AR,"Fully Paid","Manual Review"
+68192805,8000.00,33130.00,17.97,D,D4,667,Fair,11.52,"Lower-Middle Income",debt_consolidation,LA,"Charged Off","Manual Review"
+68426783,16000.00,87500.00,10.78,B,B4,697,Good,13.74,"Middle Income",debt_consolidation,IL,"Fully Paid",Standard
+68376848,18000.00,80000.00,7.91,A,A5,742,"Very Good",15.56,"Middle Income",debt_consolidation,PA,"Charged Off",Standard
+68537213,35000.00,105000.00,9.17,B,B2,692,Good,25.07,"High Income",debt_consolidation,FL,"Fully Paid",Standard
+68393340,13150.00,40000.00,5.32,A,A1,767,"Very Good",20.25,"Lower-Middle Income",major_purchase,TX,"Fully Paid",Standard
+68486949,5600.00,48000.00,9.17,B,B2,662,Fair,19.85,"Lower-Middle Income",credit_card,TX,"Fully Paid",Standard
+68341730,23000.00,90247.00,9.80,B,B3,682,Good,17.09,"Middle Income",credit_card,VA,"Fully Paid",Standard
+66405419,12600.00,175000.00,14.85,C,C5,692,Good,11.75,"High Income",credit_card,MD,"Fully Paid",Standard
+68407153,11000.00,55000.00,16.59,D,D2,737,Good,16.85,"Lower-Middle Income",debt_consolidation,IL,"Fully Paid","Manual Review"
+67889874,4000.00,41501.00,11.99,C,C1,687,Good,12.90,"Lower-Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+68341663,20000.00,75000.00,13.44,C,C3,717,Good,20.67,"Middle Income",debt_consolidation,MT,Current,Standard
+68547380,20000.00,60000.00,11.48,B,B5,687,Good,22.62,"Middle Income",debt_consolidation,VA,"Fully Paid",Standard
+68516174,10000.00,59307.00,9.17,B,B2,692,Good,32.70,"Lower-Middle Income",credit_card,OH,"Fully Paid","Manual Review"
+68436774,18850.00,55000.00,21.48,E,E5,702,Good,15.56,"Lower-Middle Income",debt_consolidation,NV,"Charged Off","Manual Review"
+67327688,21000.00,82000.00,11.99,C,C1,732,Good,15.07,"Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+68547369,10500.00,60000.00,8.49,B,B1,687,Good,15.39,"Middle Income",debt_consolidation,WV,"Fully Paid",Standard
+68466869,4575.00,56000.00,17.27,D,D3,667,Fair,10.03,"Lower-Middle Income",house,NJ,"Charged Off","Manual Review"
+68496812,5000.00,17000.00,11.48,B,B5,692,Good,27.90,"Low Income",other,NH,"Fully Paid",Standard
+68436907,8000.00,45000.00,6.99,A,A3,792,"Very Good",15.15,"Lower-Middle Income",home_improvement,RI,"Fully Paid",Standard
+68496925,5000.00,30000.00,11.99,C,C1,677,Good,9.16,"Lower-Middle Income",debt_consolidation,MD,"Charged Off",Standard
+68476567,9075.00,40000.00,5.32,A,A1,817,Excellent,8.39,"Lower-Middle Income",credit_card,MT,"Fully Paid",Standard
+68547291,24000.00,75181.21,12.88,C,C2,722,Good,31.57,"Middle Income",debt_consolidation,VA,Current,"Manual Review"
+68616851,12500.00,52000.00,7.49,A,A4,707,Good,6.83,"Lower-Middle Income",credit_card,CA,"Fully Paid",Standard
+68375498,19600.00,80000.00,15.77,D,D1,712,Good,18.99,"Middle Income",debt_consolidation,NH,"Charged Off","Manual Review"
+68466830,35000.00,90000.00,13.99,C,C4,742,"Very Good",10.97,"Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68593616,28000.00,75000.00,8.49,B,B1,687,Good,24.83,"Middle Income",debt_consolidation,GA,"Fully Paid",Standard
+68547492,14000.00,45500.00,15.77,D,D1,692,Good,19.24,"Lower-Middle Income",debt_consolidation,TX,"Charged Off","Manual Review"
+68547446,16000.00,99906.00,9.80,B,B3,662,Fair,6.97,"Middle Income",credit_card,NY,"Fully Paid",Standard
+68537494,14000.00,120000.00,5.32,A,A1,777,"Very Good",6.73,"High Income",debt_consolidation,CA,"Fully Paid",Standard
+68366933,24000.00,72000.00,8.49,B,B1,717,Good,22.80,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+66574010,35000.00,75000.00,13.99,C,C4,687,Good,18.19,"Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68565380,14550.00,70000.00,15.77,D,D1,722,Good,34.44,"Middle Income",debt_consolidation,FL,Current,"Manual Review"
+68446530,8000.00,21610.00,11.48,B,B5,707,Good,31.06,"Low Income",credit_card,TN,"Fully Paid","Manual Review"
+68375365,32400.00,106284.00,9.80,B,B3,732,Good,24.11,"High Income",credit_card,TX,Current,Standard
+68366859,3600.00,25000.00,13.44,C,C3,712,Good,26.45,"Low Income",debt_consolidation,PA,"Fully Paid",Standard
+68563427,10500.00,110000.00,13.99,C,C4,662,Fair,30.73,"High Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68607018,3000.00,105000.00,11.48,B,B5,687,Good,12.09,"High Income",home_improvement,CA,"Fully Paid",Standard
+68485643,16000.00,43000.00,14.85,C,C5,677,Good,17.11,"Lower-Middle Income",credit_card,NY,"Fully Paid",Standard
+68526838,8000.00,57000.00,7.49,A,A4,742,"Very Good",25.01,"Lower-Middle Income",debt_consolidation,PA,"Fully Paid",Standard
+68577637,19500.00,85000.00,7.49,A,A4,732,Good,13.74,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68537513,2000.00,140000.00,8.49,B,B1,848,Excellent,6.78,"High Income",other,SC,"Fully Paid",Standard
+68366850,16000.00,96000.00,5.32,A,A1,727,Good,14.45,"Middle Income",debt_consolidation,MN,"Fully Paid",Standard
+68396912,3500.00,122400.00,10.78,B,B4,662,Fair,17.97,"High Income",vacation,CA,"Fully Paid",Standard
+68396542,14000.00,94000.00,9.17,B,B2,717,Good,32.30,"Middle Income",debt_consolidation,NC,Current,"Manual Review"
+68487142,24000.00,95000.00,11.48,B,B5,677,Good,26.89,"Middle Income",debt_consolidation,IL,"Fully Paid",Standard
+68566731,6000.00,120000.00,5.32,A,A1,782,"Very Good",3.98,"High Income",credit_card,NY,"Fully Paid",Standard
+68496845,24000.00,100000.00,7.91,A,A5,677,Good,26.83,"High Income",debt_consolidation,MI,"Fully Paid",Standard
+68614704,14875.00,37231.00,18.49,D,D5,667,Fair,36.30,"Lower-Middle Income",debt_consolidation,TN,"Charged Off","Manual Review"
+68340647,10000.00,45000.00,11.99,C,C1,687,Good,37.55,"Lower-Middle Income",other,MD,"Fully Paid","Manual Review"
+68587491,15000.00,93000.00,6.99,A,A3,757,"Very Good",14.86,"Middle Income",credit_card,MA,"Fully Paid",Standard
+68526879,10000.00,68000.00,5.32,A,A1,732,Good,14.61,"Middle Income",credit_card,IN,"Fully Paid",Standard
+68407273,18000.00,97000.00,9.17,B,B2,712,Good,22.22,"Middle Income",major_purchase,NY,Current,Standard
+67415657,24000.00,97000.00,19.48,E,E2,687,Good,7.23,"Middle Income",debt_consolidation,CO,"Fully Paid","Manual Review"
+68535544,23525.00,70000.00,17.97,D,D4,677,Good,13.33,"Middle Income",debt_consolidation,NJ,"Fully Paid","Manual Review"
+68416810,12000.00,68000.00,9.17,B,B2,692,Good,14.53,"Middle Income",credit_card,TX,Current,Standard
+68394924,11000.00,297000.00,10.78,B,B4,672,Good,12.69,"High Income",other,MD,"Fully Paid",Standard
+68547122,24000.00,210000.00,9.17,B,B2,692,Good,20.16,"High Income",debt_consolidation,MN,"Fully Paid",Standard
+68386904,15000.00,42900.00,16.59,D,D2,682,Good,36.98,"Lower-Middle Income",debt_consolidation,MA,Current,"Manual Review"
+68526818,16000.00,140000.00,8.49,B,B1,672,Good,14.68,"High Income",credit_card,TX,"Fully Paid",Standard
+68446558,15000.00,90000.00,7.91,A,A5,687,Good,17.07,"Middle Income",debt_consolidation,NY,"Charged Off",Standard
+68506619,5000.00,60000.00,11.99,C,C1,677,Good,19.56,"Middle Income",debt_consolidation,GA,"Charged Off",Standard
+68496948,19100.00,115000.00,10.78,B,B4,687,Good,14.35,"High Income",debt_consolidation,PA,Current,Standard
+68396786,15000.00,85000.00,10.78,B,B4,687,Good,10.14,"Middle Income",credit_card,IN,"Fully Paid",Standard
+68606972,30000.00,85000.00,18.49,D,D5,667,Fair,35.93,"Middle Income",debt_consolidation,NJ,Current,"Manual Review"
+68596708,15000.00,60000.00,9.80,B,B3,722,Good,25.56,"Middle Income",credit_card,OH,"Fully Paid",Standard
+68476642,3500.00,105000.00,13.99,C,C4,667,Fair,17.65,"High Income",other,CA,"Fully Paid",Standard
+68616825,20000.00,130000.00,9.17,B,B2,717,Good,12.77,"High Income",debt_consolidation,NY,"Fully Paid",Standard
+68526740,10000.00,30160.00,13.44,C,C3,687,Good,29.45,"Lower-Middle Income",credit_card,IL,Current,Standard
+68426716,35000.00,132500.00,18.49,D,D5,672,Good,14.48,"High Income",debt_consolidation,TX,"Fully Paid","Manual Review"
+68376710,16000.00,90000.00,14.85,C,C5,662,Fair,16.65,"Middle Income",credit_card,CA,"Late (31-120 days)",Standard
+68587530,2000.00,180000.00,11.99,C,C1,667,Fair,12.66,"High Income",other,IL,"Fully Paid",Standard
+68476592,12000.00,39500.00,9.80,B,B3,727,Good,25.43,"Lower-Middle Income",credit_card,TX,"Fully Paid",Standard
+68476512,8000.00,80000.00,6.99,A,A3,742,"Very Good",18.92,"Middle Income",credit_card,PA,"Fully Paid",Standard
+68537368,10000.00,92000.00,9.80,B,B3,682,Good,10.55,"Middle Income",debt_consolidation,WA,"Charged Off",Standard
+68376880,25000.00,76500.00,7.91,A,A5,752,"Very Good",15.65,"Middle Income",credit_card,MN,Current,Standard
+68366911,35000.00,100000.00,13.99,C,C4,667,Fair,19.43,"High Income",debt_consolidation,CA,"Fully Paid",Standard
+68547485,25600.00,150000.00,7.91,A,A5,742,"Very Good",10.88,"High Income",debt_consolidation,TX,"Fully Paid",Standard
+68606926,4325.00,90000.00,11.99,C,C1,732,Good,16.96,"Middle Income",major_purchase,VA,"Fully Paid",Standard
+68339758,6000.00,48000.00,6.99,A,A3,762,"Very Good",33.78,"Lower-Middle Income",credit_card,FL,"Fully Paid","Manual Review"
+68366819,18200.00,65000.00,15.77,D,D1,662,Fair,29.28,"Middle Income",credit_card,GA,"Charged Off","Manual Review"
+68386935,10000.00,54000.00,6.99,A,A3,702,Good,19.38,"Lower-Middle Income",credit_card,MN,"Fully Paid",Standard
+67839460,30000.00,81000.00,13.44,C,C3,727,Good,12.03,"Middle Income",debt_consolidation,MD,"Fully Paid",Standard
+68496969,13200.00,150000.00,5.32,A,A1,742,"Very Good",15.45,"High Income",home_improvement,TX,"Fully Paid",Standard
+68366976,10000.00,220000.00,6.99,A,A3,712,Good,4.76,"High Income",debt_consolidation,IL,"Fully Paid",Standard
+68547425,3000.00,75000.00,11.48,B,B5,667,Fair,22.82,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68537517,20000.00,96000.00,9.80,B,B3,767,"Very Good",19.04,"Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68596759,13875.00,32500.00,11.99,C,C1,712,Good,23.53,"Lower-Middle Income",credit_card,LA,"Fully Paid",Standard
+68396899,18000.00,76000.00,6.49,A,A2,757,"Very Good",14.40,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68445368,15225.00,40000.00,8.49,B,B1,687,Good,21.21,"Lower-Middle Income",debt_consolidation,AL,"Charged Off",Standard
+68537434,16000.00,65000.00,11.48,B,B5,707,Good,21.16,"Middle Income",debt_consolidation,FL,"Charged Off",Standard
+68426691,21000.00,125000.00,9.80,B,B3,752,"Very Good",6.20,"High Income",other,CA,"Charged Off",Standard
+67195202,13000.00,40000.00,16.59,D,D2,662,Fair,16.74,"Lower-Middle Income",debt_consolidation,HI,"Charged Off","Manual Review"
+68396815,20000.00,120000.00,7.91,A,A5,707,Good,4.99,"High Income",major_purchase,CA,"Fully Paid",Standard
+68426793,31075.00,70000.00,7.49,A,A4,727,Good,17.18,"Middle Income",credit_card,GA,"Fully Paid",Standard
+68486834,18000.00,120000.00,6.99,A,A3,712,Good,14.88,"High Income",credit_card,CO,"Fully Paid",Standard
+68566787,5000.00,74967.00,9.17,B,B2,687,Good,33.39,"Middle Income",other,WY,"Fully Paid","Manual Review"
+68506699,4675.00,13000.00,17.27,D,D3,677,Good,34.07,"Low Income",credit_card,MI,"Fully Paid","Manual Review"
+68102209,6000.00,85140.00,9.80,B,B3,712,Good,14.42,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68486386,12000.00,90000.00,12.88,C,C2,662,Fair,12.62,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68072419,13000.00,115000.00,13.99,C,C4,702,Good,9.90,"High Income",home_improvement,AZ,"Fully Paid",Standard
+68366904,1800.00,50000.00,11.48,B,B5,662,Fair,20.38,"Lower-Middle Income",other,NY,"Fully Paid",Standard
+68566711,4475.00,114000.00,16.59,D,D2,672,Good,8.36,"High Income",credit_card,TN,"Fully Paid","Manual Review"
+68426707,14400.00,70000.00,6.49,A,A2,697,Good,16.32,"Middle Income",debt_consolidation,NC,"Fully Paid",Standard
+68386931,5875.00,70000.00,7.91,A,A5,672,Good,9.53,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68595206,20000.00,180000.00,17.97,D,D4,662,Fair,25.10,"High Income",debt_consolidation,TX,"Fully Paid","Manual Review"
+68476510,10000.00,115000.00,6.99,A,A3,717,Good,23.26,"High Income",debt_consolidation,RI,"Fully Paid",Standard
+68537519,34100.00,92892.00,12.88,C,C2,737,Good,29.14,"Middle Income",debt_consolidation,GA,"Fully Paid",Standard
+68616891,24000.00,56457.00,11.48,B,B5,682,Good,12.37,"Lower-Middle Income",credit_card,MA,"Fully Paid",Standard
+68426620,30000.00,300000.00,18.49,D,D5,682,Good,8.62,"High Income",debt_consolidation,WI,Current,"Manual Review"
+68436822,5200.00,160000.00,10.78,B,B4,662,Fair,8.00,"High Income",debt_consolidation,TX,"Fully Paid",Standard
+68387044,16800.00,50000.00,11.99,C,C1,677,Good,5.76,"Lower-Middle Income",debt_consolidation,CO,"Fully Paid",Standard
+67798609,10000.00,40000.00,11.99,C,C1,667,Fair,10.95,"Lower-Middle Income",debt_consolidation,NJ,"Fully Paid",Standard
+68496924,22000.00,55000.00,17.97,D,D4,667,Fair,22.34,"Lower-Middle Income",debt_consolidation,MI,"Fully Paid","Manual Review"
+68537384,28000.00,144000.00,5.32,A,A1,717,Good,29.88,"High Income",debt_consolidation,IL,"Fully Paid",Standard
+68587508,7200.00,60000.00,6.49,A,A2,727,Good,20.68,"Middle Income",credit_card,TN,"Fully Paid",Standard
+68596836,18000.00,41000.00,11.99,C,C1,692,Good,38.35,"Lower-Middle Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68416824,8400.00,30000.00,7.49,A,A4,732,Good,29.20,"Lower-Middle Income",debt_consolidation,OK,"Fully Paid",Standard
+67675195,5000.00,67000.00,14.85,C,C5,672,Good,31.08,"Middle Income",credit_card,PA,"Fully Paid","Manual Review"
+68415540,5000.00,55000.00,9.80,B,B3,667,Fair,10.93,"Lower-Middle Income",debt_consolidation,CA,"Charged Off",Standard
+68547382,2400.00,60000.00,11.48,B,B5,672,Good,24.14,"Middle Income",debt_consolidation,NC,"Charged Off",Standard
+68616919,15000.00,60000.00,5.32,A,A1,792,"Very Good",21.48,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68340650,6075.00,64400.00,9.17,B,B2,732,Good,27.37,"Middle Income",debt_consolidation,NJ,"Fully Paid",Standard
+68406175,20000.00,55000.00,10.78,B,B4,672,Good,22.58,"Lower-Middle Income",debt_consolidation,IL,"Fully Paid",Standard
+68356901,6025.00,110000.00,14.85,C,C5,667,Fair,21.32,"High Income",debt_consolidation,MA,"Fully Paid",Standard
+68366957,8400.00,70000.00,9.17,B,B2,692,Good,12.96,"Middle Income",debt_consolidation,GA,"Fully Paid",Standard
+68466856,15000.00,90000.00,12.88,C,C2,712,Good,21.17,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68504230,19200.00,72000.00,8.49,B,B1,722,Good,21.22,"Middle Income",debt_consolidation,HI,Current,Standard
+68577640,12000.00,143000.00,15.77,D,D1,697,Good,3.61,"High Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68537431,28800.00,60000.00,12.88,C,C2,702,Good,6.68,"Middle Income",home_improvement,VA,"Fully Paid",Standard
+68387009,5000.00,60000.00,5.32,A,A1,732,Good,19.22,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68366912,5000.00,60000.00,12.88,C,C2,687,Good,30.24,"Middle Income",home_improvement,VA,"Fully Paid","Manual Review"
+68596832,31500.00,120000.00,11.99,C,C1,757,"Very Good",10.55,"High Income",debt_consolidation,CA,"Fully Paid",Standard
+68616471,24000.00,165000.00,18.49,D,D5,662,Fair,13.05,"High Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68606975,20000.00,110000.00,12.88,C,C2,672,Good,23.89,"High Income",debt_consolidation,TX,"Charged Off",Standard
+68376378,24000.00,110000.00,10.78,B,B4,737,Good,20.82,"High Income",debt_consolidation,MI,"Fully Paid",Standard
+68587485,21850.00,65000.00,17.27,D,D3,662,Fair,12.74,"Middle Income",debt_consolidation,NY,"Fully Paid","Manual Review"
+68366926,9500.00,126500.00,6.49,A,A2,682,Good,8.67,"High Income",home_improvement,AL,"Fully Paid",Standard
+68577565,20000.00,98000.00,8.49,B,B1,677,Good,16.70,"Middle Income",debt_consolidation,MN,"Fully Paid",Standard
+68374806,20000.00,59000.00,13.44,C,C3,682,Good,26.54,"Lower-Middle Income",credit_card,NY,Current,Standard
+68496791,20000.00,135000.00,16.59,D,D2,687,Good,26.92,"High Income",home_improvement,TX,"Charged Off","Manual Review"
+68341606,20000.00,65000.00,12.88,C,C2,737,Good,16.93,"Middle Income",credit_card,MA,"Fully Paid",Standard
+68366688,25200.00,78000.00,13.44,C,C3,712,Good,20.46,"Middle Income",credit_card,VA,Current,Standard
+68486982,12000.00,50000.00,6.99,A,A3,792,"Very Good",20.12,"Lower-Middle Income",credit_card,VA,"Fully Paid",Standard
+68356643,10000.00,65000.00,12.88,C,C2,672,Good,14.73,"Middle Income",debt_consolidation,AL,"Fully Paid",Standard
+68577556,12000.00,36500.00,9.80,B,B3,807,Excellent,18.91,"Lower-Middle Income",debt_consolidation,SC,"Fully Paid",Standard
+68516540,12000.00,75000.00,7.91,A,A5,752,"Very Good",6.40,"Middle Income",debt_consolidation,GA,"Fully Paid",Standard
+68426444,6425.00,41000.00,15.77,D,D1,672,Good,2.87,"Lower-Middle Income",debt_consolidation,NJ,"Fully Paid","Manual Review"
+68416249,12700.00,32760.00,17.97,D,D4,677,Good,34.32,"Lower-Middle Income",debt_consolidation,PA,"Fully Paid","Manual Review"
+68407065,35000.00,121000.00,13.99,C,C4,682,Good,9.23,"High Income",credit_card,NY,"Fully Paid",Standard
+68376235,16000.00,110000.00,13.44,C,C3,677,Good,15.82,"High Income",debt_consolidation,IL,Current,Standard
+68446507,15000.00,48000.00,13.99,C,C4,672,Good,31.29,"Lower-Middle Income",credit_card,NV,"Charged Off","Manual Review"
+68516556,20550.00,60000.00,16.59,D,D2,717,Good,26.38,"Middle Income",debt_consolidation,NV,"Fully Paid","Manual Review"
+68416685,25000.00,127000.00,6.99,A,A3,727,Good,25.48,"High Income",home_improvement,TX,"Fully Paid",Standard
+68465272,14000.00,115000.00,19.48,E,E2,662,Fair,13.36,"High Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68446433,16925.00,47000.00,21.48,E,E5,682,Good,22.09,"Lower-Middle Income",major_purchase,MN,"Charged Off","Manual Review"
+68406857,4700.00,22000.00,13.44,C,C3,707,Good,17.64,"Low Income",debt_consolidation,FL,"Fully Paid",Standard
+68376738,5000.00,25000.00,8.49,B,B1,677,Good,13.63,"Low Income",debt_consolidation,KY,"Fully Paid",Standard
+68406984,12000.00,92500.00,14.85,C,C5,672,Good,17.66,"Middle Income",debt_consolidation,GA,"Fully Paid",Standard
+68586526,12000.00,55000.00,9.80,B,B3,662,Fair,12.61,"Lower-Middle Income",debt_consolidation,MD,"Fully Paid",Standard
+68606831,15000.00,117000.00,6.99,A,A3,702,Good,4.66,"High Income",debt_consolidation,WA,"Fully Paid",Standard
+68416651,4900.00,123000.00,13.44,C,C3,687,Good,25.60,"High Income",debt_consolidation,FL,"Fully Paid",Standard
+68052768,18000.00,70000.00,7.49,A,A4,692,Good,16.82,"Middle Income",credit_card,MO,"Fully Paid",Standard
+68606890,18000.00,48000.00,14.85,C,C5,662,Fair,19.76,"Lower-Middle Income",debt_consolidation,CO,"Charged Off",Standard
+68376784,25000.00,120000.00,17.27,D,D3,662,Fair,21.33,"High Income",debt_consolidation,AL,"Charged Off","Manual Review"
+67675402,15000.00,50000.00,12.88,C,C2,667,Fair,13.92,"Lower-Middle Income",debt_consolidation,MI,"Fully Paid",Standard
+68566571,3600.00,97000.00,11.48,B,B5,662,Fair,18.93,"Middle Income",car,IL,"Fully Paid",Standard
+68386802,33000.00,92250.00,8.49,B,B1,737,Good,20.68,"Middle Income",other,VA,"Fully Paid",Standard
+68466671,14950.00,68000.00,18.99,E,E1,687,Good,31.36,"Middle Income",debt_consolidation,WI,"Fully Paid","Manual Review"
+68606857,15000.00,154000.00,12.88,C,C2,732,Good,35.77,"High Income",debt_consolidation,NJ,"Fully Paid","Manual Review"
+68606912,7000.00,30100.00,16.59,D,D2,682,Good,25.68,"Lower-Middle Income",debt_consolidation,OH,"Fully Paid","Manual Review"
+68526678,15000.00,35300.00,16.59,D,D2,682,Good,36.52,"Lower-Middle Income",debt_consolidation,KS,Current,"Manual Review"
+68585614,35000.00,98000.00,12.88,C,C2,692,Good,18.93,"Middle Income",debt_consolidation,MO,"Fully Paid",Standard
+66624023,8000.00,58000.00,8.49,B,B1,732,Good,5.90,"Lower-Middle Income",credit_card,CA,"Fully Paid",Standard
+68356729,20000.00,40000.00,11.99,C,C1,712,Good,22.84,"Lower-Middle Income",credit_card,NY,"Charged Off",Standard
+68537150,14375.00,80000.00,19.89,E,E3,697,Good,37.32,"Middle Income",debt_consolidation,TX,"Fully Paid","Manual Review"
+68406791,21000.00,85000.00,9.17,B,B2,707,Good,10.51,"Middle Income",debt_consolidation,MA,"Fully Paid",Standard
+68534381,3700.00,65000.00,12.88,C,C2,702,Good,20.81,"Middle Income",debt_consolidation,VA,"Fully Paid",Standard
+68386814,8400.00,85000.00,9.17,B,B2,662,Fair,26.77,"Middle Income",credit_card,NH,"Charged Off",Standard
+67476662,7200.00,22000.00,11.48,B,B5,752,"Very Good",23.57,"Low Income",debt_consolidation,TX,"Fully Paid",Standard
+67918929,16800.00,85400.00,8.49,B,B1,707,Good,17.27,"Middle Income",debt_consolidation,PA,"Fully Paid",Standard
+68587465,9000.00,150000.00,5.32,A,A1,797,"Very Good",0.63,"High Income",major_purchase,HI,"Fully Paid",Standard
+68526718,6000.00,43700.00,13.99,C,C4,662,Fair,31.87,"Lower-Middle Income",home_improvement,FL,"Fully Paid","Manual Review"
+68486915,34000.00,76497.00,10.78,B,B4,707,Good,13.32,"Middle Income",debt_consolidation,NV,"Fully Paid",Standard
+68526576,20000.00,67000.00,11.99,C,C1,682,Good,6.52,"Middle Income",debt_consolidation,PA,Current,Standard
+68615371,16000.00,91000.00,12.88,C,C2,667,Fair,11.78,"Middle Income",debt_consolidation,NJ,"Charged Off",Standard
+68546420,11200.00,70000.00,8.49,B,B1,687,Good,15.88,"Middle Income",debt_consolidation,MA,"Fully Paid",Standard
+66520372,21000.00,95000.00,18.49,D,D5,677,Good,34.84,"Middle Income",debt_consolidation,TX,Current,"Manual Review"
+67466859,16000.00,65000.00,12.88,C,C2,707,Good,39.56,"Middle Income",credit_card,MI,Current,"Manual Review"
+68407083,6000.00,50000.00,7.91,A,A5,787,"Very Good",19.42,"Lower-Middle Income",debt_consolidation,KY,"Fully Paid",Standard
+68577519,9100.00,84000.00,6.49,A,A2,732,Good,15.57,"Middle Income",credit_card,OH,"Fully Paid",Standard
+68616757,10000.00,60000.00,6.99,A,A3,712,Good,29.15,"Middle Income",other,TN,"Fully Paid",Standard
+67808313,28000.00,135000.00,10.78,B,B4,742,"Very Good",26.15,"High Income",debt_consolidation,OH,"Late (31-120 days)",Standard
+68396002,30000.00,115000.00,27.49,G,G2,677,Good,17.73,"High Income",other,CO,"Charged Off","Manual Review"
+68577456,8450.00,37380.00,11.99,C,C1,672,Good,15.09,"Lower-Middle Income",debt_consolidation,NC,"Fully Paid",Standard
+68537123,8775.00,75000.00,22.45,F,F1,662,Fair,20.37,"Middle Income",credit_card,GA,"Fully Paid","Manual Review"
+68506560,6000.00,72000.00,5.32,A,A1,692,Good,17.08,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68416683,10000.00,75000.00,5.32,A,A1,772,"Very Good",5.17,"Middle Income",debt_consolidation,WY,"Fully Paid",Standard
+68486957,10000.00,128000.00,15.77,D,D1,687,Good,36.23,"High Income",debt_consolidation,CA,"Charged Off","Manual Review"
+68514937,7200.00,22000.00,17.27,D,D3,702,Good,38.63,"Low Income",debt_consolidation,MD,"Fully Paid","Manual Review"
+68547344,20000.00,75000.00,14.85,C,C5,707,Good,18.76,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68376788,20000.00,95750.00,9.17,B,B2,687,Good,19.14,"Middle Income",debt_consolidation,FL,"Charged Off",Standard
+68356655,5000.00,130000.00,5.32,A,A1,722,Good,10.44,"High Income",debt_consolidation,CA,"Fully Paid",Standard
+68506603,15000.00,35179.00,9.80,B,B3,707,Good,23.47,"Lower-Middle Income",debt_consolidation,CO,"Charged Off",Standard
+68366599,23950.00,160000.00,17.97,D,D4,677,Good,18.41,"High Income",credit_card,PA,"Charged Off","Manual Review"
+68356727,15000.00,160000.00,10.78,B,B4,672,Good,24.79,"High Income",debt_consolidation,FL,"Fully Paid",Standard
+68536969,2250.00,60000.00,8.49,B,B1,692,Good,16.88,"Middle Income",credit_card,IN,"Fully Paid",Standard
+68613885,14000.00,40000.00,13.44,C,C3,672,Good,37.39,"Lower-Middle Income",debt_consolidation,LA,"Fully Paid","Manual Review"
+68514503,14000.00,80000.00,12.88,C,C2,662,Fair,5.04,"Middle Income",debt_consolidation,CA,"Charged Off",Standard
+68496864,18000.00,83000.00,7.49,A,A4,702,Good,7.93,"Middle Income",debt_consolidation,VA,"Fully Paid",Standard
+67969431,12000.00,72500.00,5.32,A,A1,747,"Very Good",2.71,"Middle Income",other,MD,"Fully Paid",Standard
+68526434,5600.00,46000.00,10.78,B,B4,662,Fair,13.18,"Lower-Middle Income",credit_card,MD,"Fully Paid",Standard
+68052879,35000.00,83000.00,16.59,D,D2,702,Good,25.52,"Middle Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68342980,8000.00,43500.00,12.88,C,C2,702,Good,22.48,"Lower-Middle Income",other,GA,"Charged Off",Standard
+68366762,2400.00,26000.00,13.44,C,C3,672,Good,16.39,"Low Income",debt_consolidation,WA,"Fully Paid",Standard
+68445172,35000.00,98000.00,17.27,D,D3,687,Good,19.74,"Middle Income",debt_consolidation,FL,"Fully Paid","Manual Review"
+68072793,35000.00,140000.00,10.78,B,B4,747,"Very Good",16.46,"High Income",credit_card,NC,Current,Standard
+68587393,7000.00,55000.00,12.88,C,C2,737,Good,37.22,"Lower-Middle Income",other,AZ,"Fully Paid","Manual Review"
+68476416,8000.00,23200.00,11.99,C,C1,677,Good,33.78,"Low Income",debt_consolidation,OR,"Fully Paid","Manual Review"
+68516502,6125.00,70000.00,17.27,D,D3,692,Good,17.36,"Middle Income",debt_consolidation,NY,"Fully Paid","Manual Review"
+68616394,10400.00,150000.00,13.44,C,C3,672,Good,18.51,"High Income",debt_consolidation,MO,"Charged Off",Standard
+68586405,30000.00,134000.00,7.91,A,A5,727,Good,17.10,"High Income",debt_consolidation,AL,"Fully Paid",Standard
+68394820,4000.00,30000.00,14.85,C,C5,667,Fair,8.18,"Lower-Middle Income",debt_consolidation,IL,"Fully Paid",Standard
+68537225,10000.00,125000.00,10.78,B,B4,687,Good,19.92,"High Income",debt_consolidation,FL,"Fully Paid",Standard
+68355715,16000.00,50000.00,7.91,A,A5,717,Good,24.41,"Lower-Middle Income",debt_consolidation,KY,"Fully Paid",Standard
+68464432,24000.00,67000.00,17.27,D,D3,692,Good,29.07,"Middle Income",home_improvement,NY,"Charged Off","Manual Review"
+68338713,19225.00,56600.00,26.99,G,G1,712,Good,18.21,"Lower-Middle Income",debt_consolidation,OH,"Charged Off","Manual Review"
+68386849,13000.00,130000.00,12.88,C,C2,707,Good,5.51,"High Income",home_improvement,OK,"Charged Off",Standard
+68416594,16800.00,52000.00,9.17,B,B2,737,Good,28.96,"Lower-Middle Income",debt_consolidation,OH,Current,Standard
+68356739,2000.00,35037.00,6.49,A,A2,762,"Very Good",8.51,"Lower-Middle Income",credit_card,MD,"Fully Paid",Standard
+66603901,19200.00,50000.00,5.32,A,A1,692,Good,19.24,"Lower-Middle Income",debt_consolidation,SC,"Fully Paid",Standard
+66340149,10000.00,140000.00,13.44,C,C3,662,Fair,9.99,"High Income",debt_consolidation,CA,"Fully Paid",Standard
+68496775,35000.00,165000.00,7.91,A,A5,712,Good,18.89,"High Income",debt_consolidation,NY,"Fully Paid",Standard
+68396654,15000.00,60000.00,12.88,C,C2,677,Good,36.40,"Middle Income",debt_consolidation,AL,"Fully Paid","Manual Review"
+68426569,35000.00,84468.00,15.77,D,D1,667,Fair,16.85,"Middle Income",debt_consolidation,NC,"Fully Paid","Manual Review"
+68577530,18000.00,55000.00,8.49,B,B1,672,Good,27.17,"Lower-Middle Income",credit_card,OH,"Fully Paid",Standard
+68466644,8000.00,40000.00,9.80,B,B3,687,Good,25.15,"Lower-Middle Income",debt_consolidation,CA,"Charged Off",Standard
+68356682,15000.00,50000.00,12.88,C,C2,807,Excellent,30.08,"Lower-Middle Income",debt_consolidation,AZ,"Fully Paid","Manual Review"
+68547298,17400.00,175000.00,8.49,B,B1,697,Good,7.04,"High Income",debt_consolidation,OR,"Fully Paid",Standard
+68516537,35000.00,156000.00,11.99,C,C1,712,Good,14.98,"High Income",credit_card,TN,"Fully Paid",Standard
+68356714,12000.00,100000.00,9.17,B,B2,747,"Very Good",12.13,"High Income",debt_consolidation,IL,"Fully Paid",Standard
+68386821,24000.00,66000.00,9.17,B,B2,667,Fair,23.98,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68406994,8000.00,66500.00,7.91,A,A5,727,Good,29.22,"Middle Income",home_improvement,TX,"Fully Paid",Standard
+68356724,16775.00,74000.00,19.89,E,E3,677,Good,29.91,"Middle Income",debt_consolidation,GA,"Fully Paid","Manual Review"
+66590964,8000.00,48000.00,8.49,B,B1,672,Good,15.15,"Lower-Middle Income",credit_card,AZ,"Fully Paid",Standard
+68436430,21000.00,100000.00,10.78,B,B4,732,Good,29.75,"High Income",debt_consolidation,CO,"Fully Paid",Standard
+68453284,20000.00,150000.00,13.44,C,C3,672,Good,5.73,"High Income",other,FL,Current,Standard
+68577623,10000.00,113000.00,12.88,C,C2,692,Good,21.59,"High Income",credit_card,OR,"Fully Paid",Standard
+68446401,6000.00,81120.00,7.91,A,A5,687,Good,18.45,"Middle Income",debt_consolidation,NC,"Fully Paid",Standard
+67206595,6000.00,54744.00,18.49,D,D5,667,Fair,23.96,"Lower-Middle Income",debt_consolidation,NJ,"Fully Paid","Manual Review"
+68434983,8400.00,80000.00,11.48,B,B5,712,Good,13.92,"Middle Income",credit_card,NY,"Fully Paid",Standard
+68366679,10000.00,33000.00,12.88,C,C2,667,Fair,23.23,"Lower-Middle Income",credit_card,HI,"Fully Paid",Standard
+68577614,6000.00,72000.00,9.17,B,B2,662,Fair,2.80,"Middle Income",credit_card,CO,"Fully Paid",Standard
+68564481,20000.00,70000.00,8.49,B,B1,677,Good,12.51,"Middle Income",credit_card,NY,"Fully Paid",Standard
+68416579,4600.00,14688.00,11.99,C,C1,672,Good,14.79,"Low Income",credit_card,FL,"Fully Paid",Standard
+68340648,20000.00,50000.00,17.27,D,D3,707,Good,33.75,"Lower-Middle Income",other,NC,"Fully Paid","Manual Review"
+68052883,15000.00,48112.00,9.17,B,B2,687,Good,31.62,"Lower-Middle Income",credit_card,CA,"Fully Paid","Manual Review"
+68465033,12000.00,40000.00,12.88,C,C2,692,Good,23.98,"Lower-Middle Income",debt_consolidation,AZ,"Fully Paid",Standard
+68587366,5000.00,75000.00,10.78,B,B4,707,Good,16.70,"Middle Income",debt_consolidation,NC,"Fully Paid",Standard
+66624075,6000.00,57000.00,10.78,B,B4,692,Good,18.34,"Lower-Middle Income",debt_consolidation,MD,"Fully Paid",Standard
+68445725,10050.00,34000.00,17.27,D,D3,712,Good,18.60,"Lower-Middle Income",credit_card,OH,Current,"Manual Review"
+68416619,6000.00,43000.00,5.32,A,A1,682,Good,20.37,"Lower-Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+68385791,28000.00,84000.00,20.50,E,E4,702,Good,37.26,"Middle Income",debt_consolidation,CA,"Charged Off","Manual Review"
+68386842,15000.00,81000.00,5.32,A,A1,802,Excellent,16.95,"Middle Income",credit_card,TX,"Fully Paid",Standard
+68425549,10500.00,168400.00,8.49,B,B1,717,Good,27.58,"High Income",other,TX,"Fully Paid",Standard
+66433932,10000.00,34000.00,13.44,C,C3,722,Good,11.19,"Lower-Middle Income",debt_consolidation,MA,"Fully Paid",Standard
+66220950,3600.00,62000.00,7.49,A,A4,722,Good,22.42,"Middle Income",debt_consolidation,MI,"Fully Paid",Standard
+68356738,10000.00,72000.00,11.48,B,B5,682,Good,26.90,"Middle Income",other,VA,"Fully Paid",Standard
+68587377,30000.00,115000.00,8.49,B,B1,692,Good,13.54,"High Income",credit_card,NV,"Fully Paid",Standard
+67705153,8000.00,35000.00,11.99,C,C1,722,Good,10.12,"Lower-Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+68416560,15000.00,55000.00,16.59,D,D2,662,Fair,10.17,"Lower-Middle Income",debt_consolidation,CT,"Charged Off","Manual Review"
+68576593,21600.00,60000.00,8.49,B,B1,687,Good,17.42,"Middle Income",debt_consolidation,CO,"Fully Paid",Standard
+68340587,12000.00,105000.00,9.17,B,B2,672,Good,16.86,"High Income",credit_card,TN,"Fully Paid",Standard
+68466641,28000.00,102000.00,7.91,A,A5,702,Good,21.05,"High Income",credit_card,IN,"Fully Paid",Standard
+68445845,6400.00,33000.00,11.48,B,B5,687,Good,15.60,"Lower-Middle Income",credit_card,FL,"Fully Paid",Standard
+68596423,15000.00,48000.00,9.17,B,B2,682,Good,12.20,"Lower-Middle Income",car,NY,"Fully Paid",Standard
+68386830,13000.00,70000.00,7.91,A,A5,712,Good,26.32,"Middle Income",credit_card,TX,"Fully Paid",Standard
+68486912,10000.00,80000.00,13.44,C,C3,672,Good,15.56,"Middle Income",credit_card,CT,"Fully Paid",Standard
+68338703,24800.00,95000.00,7.91,A,A5,767,"Very Good",14.76,"Middle Income",debt_consolidation,CO,"Fully Paid",Standard
+68575726,12000.00,56000.00,10.78,B,B4,707,Good,25.98,"Lower-Middle Income",other,AR,"Charged Off",Standard
+68386728,10800.00,96000.00,8.49,B,B1,697,Good,12.25,"Middle Income",car,NC,"Late (31-120 days)",Standard
+68340637,15000.00,65000.00,11.99,C,C1,667,Fair,17.56,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+67308558,24000.00,120000.00,5.32,A,A1,727,Good,15.82,"High Income",credit_card,NJ,"Fully Paid",Standard
+68606879,2000.00,75600.00,13.44,C,C3,687,Good,10.17,"Middle Income",debt_consolidation,KY,"Fully Paid",Standard
+68537015,22600.00,53867.00,15.77,D,D1,677,Good,25.31,"Lower-Middle Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68606893,13500.00,50000.00,23.13,F,F2,662,Fair,25.30,"Lower-Middle Income",debt_consolidation,FL,"Charged Off","Manual Review"
+68338676,6000.00,66000.00,10.78,B,B4,697,Good,19.96,"Middle Income",car,MN,"Charged Off",Standard
+68587428,20000.00,84000.00,9.80,B,B3,692,Good,23.27,"Middle Income",credit_card,WV,Current,Standard
+68486909,5000.00,55000.00,6.49,A,A2,702,Good,29.15,"Lower-Middle Income",debt_consolidation,NH,"Fully Paid",Standard
+68506544,20000.00,100000.00,7.49,A,A4,737,Good,12.18,"High Income",credit_card,MA,"Fully Paid",Standard
+68386766,12000.00,103000.00,9.80,B,B3,682,Good,18.54,"High Income",debt_consolidation,VA,"Fully Paid",Standard
+68386716,32000.00,107000.00,11.48,B,B5,712,Good,19.13,"High Income",credit_card,VT,"Fully Paid",Standard
+68606732,15200.00,69998.00,13.99,C,C4,662,Fair,14.52,"Middle Income",debt_consolidation,MO,"Charged Off",Standard
+68356598,12500.00,60000.00,11.99,C,C1,687,Good,16.98,"Middle Income",debt_consolidation,NC,"Fully Paid",Standard
+68506468,21000.00,81000.00,10.78,B,B4,702,Good,17.19,"Middle Income",debt_consolidation,IN,"Fully Paid",Standard
+68446452,16000.00,35000.00,8.49,B,B1,707,Good,24.49,"Lower-Middle Income",credit_card,NE,"Fully Paid",Standard
+67307680,24650.00,100000.00,11.48,B,B5,727,Good,22.64,"High Income",debt_consolidation,CA,"Fully Paid",Standard
+68446430,11000.00,77000.00,7.91,A,A5,687,Good,28.73,"Middle Income",debt_consolidation,OH,"Fully Paid",Standard
+68566128,22400.00,70000.00,14.85,C,C5,697,Good,18.69,"Middle Income",credit_card,RI,"Fully Paid",Standard
+68426504,15125.00,61000.00,18.49,D,D5,682,Good,25.38,"Middle Income",debt_consolidation,FL,"Charged Off","Manual Review"
+68416679,8725.00,60000.00,11.99,C,C1,732,Good,29.56,"Middle Income",debt_consolidation,MO,"Late (31-120 days)",Standard
+68376661,8000.00,63800.00,7.91,A,A5,732,Good,23.76,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68537075,8000.00,52000.00,9.17,B,B2,667,Fair,11.86,"Lower-Middle Income",major_purchase,CA,"Fully Paid",Standard
+68338692,11000.00,42240.00,14.85,C,C5,687,Good,19.18,"Lower-Middle Income",home_improvement,MA,"Fully Paid",Standard
+68052151,11725.00,82000.00,18.99,E,E1,682,Good,13.32,"Middle Income",debt_consolidation,CA,Current,"Manual Review"
+68486965,28500.00,70000.00,18.99,E,E1,692,Good,29.37,"Middle Income",debt_consolidation,WA,"Fully Paid","Manual Review"
+68526655,25000.00,120000.00,6.49,A,A2,747,"Very Good",21.30,"High Income",credit_card,TX,"Fully Paid",Standard
+68366718,7000.00,70000.00,9.17,B,B2,662,Fair,16.10,"Middle Income",moving,CA,"Fully Paid",Standard
+68577462,12000.00,100000.00,9.80,B,B3,667,Fair,12.07,"High Income",debt_consolidation,IL,"Fully Paid",Standard
+68577627,20000.00,40000.00,8.49,B,B1,787,"Very Good",20.04,"Lower-Middle Income",credit_card,KY,Current,Standard
+68476479,5875.00,56000.00,15.77,D,D1,672,Good,25.65,"Lower-Middle Income",debt_consolidation,IL,"Fully Paid","Manual Review"
+68576177,18000.00,145000.00,18.49,D,D5,672,Good,15.54,"High Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68426438,28000.00,160000.00,7.91,A,A5,712,Good,23.69,"High Income",home_improvement,WA,"Fully Paid",Standard
+68537228,35000.00,205000.00,9.80,B,B3,712,Good,5.71,"High Income",moving,CA,"Fully Paid",Standard
+68605120,31800.00,65000.00,16.59,D,D2,812,Excellent,24.15,"Middle Income",debt_consolidation,AR,"Fully Paid","Manual Review"
+68396682,25000.00,105000.00,17.97,D,D4,682,Good,22.57,"High Income",debt_consolidation,VA,"Fully Paid","Manual Review"
+68566614,16000.00,54000.00,17.27,D,D3,717,Good,20.73,"Lower-Middle Income",debt_consolidation,NY,"Fully Paid","Manual Review"
+68577273,25000.00,82000.00,10.78,B,B4,722,Good,26.88,"Middle Income",credit_card,OH,Current,Standard
+68182349,35000.00,139000.00,16.59,D,D2,672,Good,14.95,"High Income",credit_card,CA,"Fully Paid","Manual Review"
+68426245,18000.00,60000.00,7.91,A,A5,682,Good,11.52,"Middle Income",credit_card,FL,"Charged Off",Standard
+68516370,10000.00,55500.00,7.49,A,A4,702,Good,15.05,"Lower-Middle Income",debt_consolidation,PA,"Fully Paid",Standard
+68396401,8000.00,53040.00,14.85,C,C5,662,Fair,20.54,"Lower-Middle Income",credit_card,HI,"Fully Paid",Standard
+68504862,12000.00,75000.00,13.44,C,C3,682,Good,18.46,"Middle Income",debt_consolidation,KY,Current,Standard
+68466525,15000.00,75000.00,5.32,A,A1,782,"Very Good",8.75,"Middle Income",debt_consolidation,NJ,"Fully Paid",Standard
+68466575,20000.00,155000.00,11.99,C,C1,712,Good,22.47,"High Income",house,NC,"Fully Paid",Standard
+68525638,14000.00,80000.00,19.89,E,E3,702,Good,14.39,"Middle Income",small_business,TN,"Fully Paid","Manual Review"
+68396575,20500.00,77700.00,8.49,B,B1,687,Good,18.56,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68536174,4700.00,88000.00,13.99,C,C4,662,Fair,14.21,"Middle Income",debt_consolidation,VA,"Fully Paid",Standard
+68426258,28000.00,76008.00,9.17,B,B2,692,Good,14.47,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68606785,12000.00,71000.00,7.91,A,A5,717,Good,24.86,"Middle Income",debt_consolidation,TN,"Fully Paid",Standard
+68577304,7200.00,42500.00,7.91,A,A5,672,Good,11.07,"Lower-Middle Income",credit_card,FL,"Fully Paid",Standard
+68526511,11000.00,33000.00,7.49,A,A4,802,Excellent,37.56,"Lower-Middle Income",debt_consolidation,DE,"Fully Paid","Manual Review"
+67378996,11000.00,52000.00,13.99,C,C4,662,Fair,5.70,"Lower-Middle Income",debt_consolidation,CA,"Charged Off",Standard
+68526473,3500.00,45000.00,9.80,B,B3,727,Good,22.29,"Lower-Middle Income",car,WI,"Fully Paid",Standard
+68386504,23850.00,111000.00,13.44,C,C3,662,Fair,13.58,"High Income",major_purchase,CA,"Fully Paid",Standard
+68386590,3600.00,70000.00,15.77,D,D1,687,Good,14.33,"Middle Income",other,VT,"Fully Paid","Manual Review"
+68616588,15000.00,54000.00,7.91,A,A5,672,Good,19.39,"Lower-Middle Income",debt_consolidation,TX,Current,Standard
+68366510,16500.00,76000.00,11.99,C,C1,727,Good,2.56,"Middle Income",credit_card,OR,"Fully Paid",Standard
+67448298,8275.00,55000.00,10.78,B,B4,717,Good,38.05,"Lower-Middle Income",credit_card,NJ,"Fully Paid","Manual Review"
+68386480,35000.00,80000.00,17.27,D,D3,692,Good,15.77,"Middle Income",home_improvement,CO,"Fully Paid","Manual Review"
+68356375,20000.00,106000.00,5.32,A,A1,737,Good,20.04,"High Income",debt_consolidation,MA,"Fully Paid",Standard
+68616414,22800.00,76000.00,5.32,A,A1,737,Good,21.96,"Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+68577378,10000.00,35000.00,8.49,B,B1,707,Good,33.54,"Lower-Middle Income",credit_card,MS,"Fully Paid","Manual Review"
+68113036,19000.00,155000.00,10.78,B,B4,667,Fair,18.42,"High Income",debt_consolidation,NJ,"Fully Paid",Standard
+68406779,18000.00,92000.00,8.49,B,B1,752,"Very Good",3.48,"Middle Income",debt_consolidation,OR,Current,Standard
+68596496,6000.00,40000.00,16.59,D,D2,662,Fair,10.80,"Lower-Middle Income",debt_consolidation,OR,"Charged Off","Manual Review"
+67055262,35000.00,105000.00,16.59,D,D2,702,Good,27.22,"High Income",credit_card,PA,"Fully Paid","Manual Review"
+68536992,6000.00,210000.00,13.99,C,C4,667,Fair,12.55,"High Income",debt_consolidation,TX,"Fully Paid",Standard
+68536187,16000.00,52000.00,13.99,C,C4,707,Good,33.12,"Lower-Middle Income",debt_consolidation,NJ,"Charged Off","Manual Review"
+68052822,5000.00,19000.00,16.59,D,D2,667,Fair,14.28,"Low Income",debt_consolidation,PA,"Fully Paid","Manual Review"
+68426234,3000.00,54000.00,18.49,D,D5,682,Good,32.18,"Lower-Middle Income",house,NY,"Charged Off","Manual Review"
+68596402,20000.00,120000.00,14.85,C,C5,687,Good,33.29,"High Income",other,NY,"Charged Off","Manual Review"
+68338594,24000.00,43435.00,23.13,F,F2,682,Good,35.70,"Lower-Middle Income",debt_consolidation,TX,"Fully Paid","Manual Review"
+68577316,20000.00,106000.00,7.49,A,A4,707,Good,27.20,"High Income",debt_consolidation,TX,"Fully Paid",Standard
+68446226,8000.00,65000.00,9.17,B,B2,687,Good,22.05,"Middle Income",major_purchase,OH,"Fully Paid",Standard
+68446231,5000.00,47000.00,12.88,C,C2,682,Good,38.61,"Lower-Middle Income",debt_consolidation,TX,"Fully Paid","Manual Review"
+68426244,20000.00,135000.00,5.32,A,A1,707,Good,15.90,"High Income",debt_consolidation,NY,"Fully Paid",Standard
+68386572,5000.00,110000.00,13.44,C,C3,672,Good,24.66,"High Income",debt_consolidation,CA,"Fully Paid",Standard
+68466410,30425.00,69201.00,19.89,E,E3,682,Good,16.67,"Middle Income",credit_card,WI,Current,"Manual Review"
+66546659,12000.00,29500.00,10.78,B,B4,682,Good,16.27,"Low Income",debt_consolidation,CA,"Fully Paid",Standard
+68606779,19675.00,86000.00,21.48,E,E5,662,Fair,8.09,"Middle Income",debt_consolidation,MD,"Fully Paid","Manual Review"
+68436350,24000.00,125000.00,9.80,B,B3,702,Good,2.96,"High Income",home_improvement,IL,"Charged Off",Standard
+68436402,12000.00,85000.00,10.78,B,B4,682,Good,24.06,"Middle Income",debt_consolidation,PA,"Fully Paid",Standard
+68546935,12000.00,45000.00,5.32,A,A1,782,"Very Good",29.87,"Lower-Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68616558,28000.00,112000.00,7.91,A,A5,717,Good,11.95,"High Income",credit_card,CO,"Fully Paid",Standard
+68576171,14000.00,105000.00,10.78,B,B4,692,Good,26.66,"High Income",credit_card,NY,"Fully Paid",Standard
+68516426,9975.00,31200.00,23.13,F,F2,687,Good,21.14,"Lower-Middle Income",other,CA,"Fully Paid","Manual Review"
+68376649,10000.00,72000.00,5.32,A,A1,692,Good,16.42,"Middle Income",debt_consolidation,OR,"Fully Paid",Standard
+68616573,3600.00,34000.00,13.99,C,C4,662,Fair,29.79,"Lower-Middle Income",credit_card,NC,"Fully Paid",Standard
+68516294,27850.00,55702.00,24.24,F,F3,677,Good,26.18,"Lower-Middle Income",debt_consolidation,MI,"Fully Paid","Manual Review"
+68038575,14000.00,175000.00,9.80,B,B3,692,Good,25.43,"High Income",credit_card,LA,"Fully Paid",Standard
+68525951,12475.00,26000.00,5.32,A,A1,742,"Very Good",28.49,"Low Income",credit_card,CA,"Fully Paid",Standard
+68340478,24000.00,96000.00,13.44,C,C3,677,Good,22.70,"Middle Income",credit_card,MO,"Fully Paid",Standard
+67798862,22400.00,96000.00,14.85,C,C5,677,Good,20.45,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68386707,26000.00,124400.00,6.49,A,A2,737,Good,26.03,"High Income",credit_card,AL,"Fully Paid",Standard
+68496752,25000.00,50000.00,13.44,C,C3,777,"Very Good",6.39,"Lower-Middle Income",home_improvement,AL,"Fully Paid",Standard
+68423901,14000.00,130000.00,9.80,B,B3,677,Good,11.99,"High Income",credit_card,IL,"Fully Paid",Standard
+68536998,10000.00,52600.00,6.49,A,A2,722,Good,13.16,"Lower-Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+68596373,18300.00,118000.00,16.59,D,D2,677,Good,21.49,"High Income",debt_consolidation,NY,Current,"Manual Review"
+68484093,11550.00,28948.92,18.99,E,E1,687,Good,18.41,"Low Income",credit_card,WA,"Fully Paid","Manual Review"
+68008415,14000.00,100200.00,6.99,A,A3,742,"Very Good",19.34,"High Income",credit_card,VA,"Fully Paid",Standard
+68506125,9000.00,90000.00,7.91,A,A5,717,Good,9.28,"Middle Income",credit_card,NJ,"Fully Paid",Standard
+68476339,8000.00,38000.00,10.78,B,B4,662,Fair,25.36,"Lower-Middle Income",debt_consolidation,KS,"Fully Paid",Standard
+68476287,11000.00,60000.00,7.91,A,A5,712,Good,28.36,"Middle Income",other,IL,"Fully Paid",Standard
+68547199,11200.00,82500.00,5.32,A,A1,827,Excellent,14.79,"Middle Income",credit_card,NC,"Fully Paid",Standard
+68496672,21000.00,75000.00,13.44,C,C3,677,Good,21.56,"Middle Income",debt_consolidation,MS,"Charged Off",Standard
+68587201,35000.00,130000.00,11.99,C,C1,712,Good,19.75,"High Income",debt_consolidation,NY,"Fully Paid",Standard
+68396350,20000.00,64000.00,13.44,C,C3,697,Good,23.85,"Middle Income",credit_card,NY,"Fully Paid",Standard
+68566452,24000.00,105000.00,6.49,A,A2,692,Good,17.15,"High Income",debt_consolidation,CA,"Fully Paid",Standard
+68426253,19800.00,45000.00,11.99,C,C1,697,Good,23.47,"Lower-Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68536503,30000.00,84000.00,12.88,C,C2,702,Good,24.39,"Middle Income",debt_consolidation,TX,"Charged Off",Standard
+68547089,28000.00,205200.00,5.32,A,A1,682,Good,21.60,"High Income",credit_card,GA,"Fully Paid",Standard
+68396571,13475.00,62000.00,16.59,D,D2,677,Good,30.41,"Middle Income",debt_consolidation,MI,Current,"Manual Review"
+67809049,27300.00,65000.00,17.97,D,D4,677,Good,17.02,"Middle Income",debt_consolidation,NM,"Fully Paid","Manual Review"
+68506307,10000.00,62000.00,13.99,C,C4,707,Good,29.06,"Middle Income",credit_card,FL,Current,Standard
+68546903,24000.00,73000.00,12.88,C,C2,662,Fair,19.76,"Middle Income",credit_card,IL,"Charged Off",Standard
+68395243,1450.00,35000.00,9.17,B,B2,677,Good,18.59,"Lower-Middle Income",home_improvement,VA,"Fully Paid",Standard
+68526248,4000.00,47500.00,9.80,B,B3,687,Good,5.79,"Lower-Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+68356556,1000.00,86000.00,11.48,B,B5,662,Fair,20.64,"Middle Income",major_purchase,NM,"Fully Paid",Standard
+68444192,24950.00,65000.00,10.78,B,B4,792,"Very Good",15.95,"Middle Income",major_purchase,FL,"Fully Paid",Standard
+68406843,25000.00,300000.00,5.32,A,A1,752,"Very Good",9.14,"High Income",home_improvement,FL,"Fully Paid",Standard
+68536929,6000.00,250000.00,7.91,A,A5,682,Good,16.17,"High Income",other,WA,"Fully Paid",Standard
+68587215,21000.00,110000.00,9.17,B,B2,702,Good,22.50,"High Income",debt_consolidation,GA,"Charged Off",Standard
+68426240,2950.00,22000.00,11.99,C,C1,667,Fair,16.58,"Low Income",debt_consolidation,MI,"Fully Paid",Standard
+68365533,33100.00,72000.00,24.24,F,F3,687,Good,23.77,"Middle Income",debt_consolidation,AL,"Charged Off","Manual Review"
+68446203,6000.00,120000.00,17.27,D,D3,662,Fair,23.03,"High Income",debt_consolidation,CO,"Fully Paid","Manual Review"
+68341583,14400.00,96200.00,19.89,E,E3,677,Good,6.47,"Middle Income",debt_consolidation,FL,Current,"Manual Review"
+68396534,10500.00,28832.00,17.97,D,D4,692,Good,23.62,"Low Income",debt_consolidation,SC,"Charged Off","Manual Review"
+68386468,12000.00,35000.00,11.99,C,C1,752,"Very Good",20.82,"Lower-Middle Income",debt_consolidation,PA,"Fully Paid",Standard
+68596499,20000.00,120000.00,6.99,A,A3,687,Good,16.80,"High Income",credit_card,IL,"Fully Paid",Standard
+68182241,10000.00,150000.00,19.48,E,E2,707,Good,14.89,"High Income",other,NM,"Fully Paid","Manual Review"
+65916558,35000.00,110000.00,19.48,E,E2,697,Good,22.32,"High Income",debt_consolidation,MD,Current,"Manual Review"
+68356558,9525.00,55000.00,13.99,C,C4,692,Good,30.96,"Lower-Middle Income",credit_card,CA,"Charged Off","Manual Review"
+68486892,20000.00,187000.00,5.32,A,A1,767,"Very Good",14.68,"High Income",debt_consolidation,CA,"Fully Paid",Standard
+68476311,14450.00,116300.00,11.48,B,B5,727,Good,2.86,"High Income",debt_consolidation,SC,"Fully Paid",Standard
+68616519,21600.00,120000.00,6.99,A,A3,742,"Very Good",20.73,"High Income",debt_consolidation,TX,"Fully Paid",Standard
+68503812,12600.00,73000.00,6.99,A,A3,682,Good,5.56,"Middle Income",credit_card,NY,"Fully Paid",Standard
+68446233,35000.00,120000.00,15.77,D,D1,707,Good,18.32,"High Income",debt_consolidation,MI,Current,"Manual Review"
+68566495,14800.00,48000.00,15.77,D,D1,722,Good,20.55,"Lower-Middle Income",debt_consolidation,WA,"Charged Off","Manual Review"
+68486666,20000.00,53000.00,13.44,C,C3,677,Good,15.29,"Lower-Middle Income",debt_consolidation,NJ,"Charged Off",Standard
+68606727,9600.00,110000.00,11.48,B,B5,667,Fair,13.83,"High Income",debt_consolidation,CA,"Fully Paid",Standard
+68386692,11900.00,34000.00,17.97,D,D4,677,Good,32.83,"Lower-Middle Income",home_improvement,PA,"Fully Paid","Manual Review"
+68446133,20800.00,60000.00,18.99,E,E1,677,Good,29.60,"Middle Income",credit_card,VA,"Fully Paid","Manual Review"
+68376668,30000.00,70000.00,10.78,B,B4,672,Good,22.99,"Middle Income",credit_card,FL,"Charged Off",Standard
+68446257,12000.00,31200.00,9.80,B,B3,687,Good,30.04,"Lower-Middle Income",credit_card,FL,"Fully Paid","Manual Review"
+68596384,5000.00,85000.00,11.48,B,B5,672,Good,8.28,"Middle Income",home_improvement,NC,"Fully Paid",Standard
+68425480,15000.00,45500.00,17.97,D,D4,702,Good,30.95,"Lower-Middle Income",debt_consolidation,NJ,"Charged Off","Manual Review"
+68406823,18900.00,45000.00,12.88,C,C2,662,Fair,30.45,"Lower-Middle Income",debt_consolidation,VA,"Fully Paid","Manual Review"
+68587251,5000.00,67000.00,7.91,A,A5,702,Good,36.53,"Middle Income",debt_consolidation,VA,"Fully Paid","Manual Review"
+68606615,19850.00,85005.00,10.78,B,B4,692,Good,17.20,"Middle Income",credit_card,NY,"Fully Paid",Standard
+66585097,8000.00,80000.00,13.99,C,C4,682,Good,19.74,"Middle Income",debt_consolidation,VA,"Fully Paid",Standard
+68566428,20000.00,100000.00,16.59,D,D2,682,Good,20.00,"High Income",debt_consolidation,MI,"Fully Paid","Manual Review"
+68426259,20000.00,60000.00,13.99,C,C4,737,Good,23.24,"Middle Income",debt_consolidation,NE,"Charged Off",Standard
+68566382,18000.00,50000.00,19.89,E,E3,667,Fair,13.49,"Lower-Middle Income",debt_consolidation,NJ,Current,"Manual Review"
+68340554,28000.00,93000.00,22.45,F,F1,717,Good,17.73,"Middle Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+67858498,12000.00,50000.00,13.99,C,C4,662,Fair,20.31,"Lower-Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68535954,15000.00,52500.00,9.80,B,B3,697,Good,4.96,"Lower-Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68386658,30000.00,130000.00,7.49,A,A4,722,Good,9.82,"High Income",credit_card,CA,"Fully Paid",Standard
+68596392,17000.00,98000.00,5.32,A,A1,757,"Very Good",9.21,"Middle Income",credit_card,PA,"Fully Paid",Standard
+68566477,12000.00,67894.00,11.99,C,C1,697,Good,23.00,"Middle Income",debt_consolidation,CA,Current,Standard
+68366607,15750.00,50000.00,16.59,D,D2,677,Good,21.96,"Lower-Middle Income",debt_consolidation,KS,"Fully Paid","Manual Review"
+68566410,5000.00,55000.00,10.78,B,B4,677,Good,30.98,"Lower-Middle Income",major_purchase,TX,"Fully Paid","Manual Review"
+68596525,24000.00,115000.00,13.99,C,C4,692,Good,17.71,"High Income",debt_consolidation,IN,"Fully Paid",Standard
+68356423,15000.00,45000.00,9.17,B,B2,662,Fair,16.93,"Lower-Middle Income",debt_consolidation,VA,"Fully Paid",Standard
+68363158,30000.00,70000.00,13.44,C,C3,702,Good,12.08,"Middle Income",home_improvement,NY,"Fully Paid",Standard
+68396428,4200.00,90000.00,7.49,A,A4,727,Good,24.85,"Middle Income",credit_card,AZ,"Fully Paid",Standard
+68547079,24000.00,93000.00,8.49,B,B1,747,"Very Good",14.98,"Middle Income",debt_consolidation,CT,Current,Standard
+68338640,6025.00,25000.00,11.99,C,C1,697,Good,6.82,"Low Income",debt_consolidation,MA,"Fully Paid",Standard
+68536967,12250.00,110000.00,9.17,B,B2,707,Good,12.61,"High Income",car,VA,Current,Standard
+68435694,14850.00,45000.00,18.49,D,D5,672,Good,13.57,"Lower-Middle Income",debt_consolidation,TX,"Charged Off","Manual Review"
+68496644,10000.00,106000.00,6.49,A,A2,812,Excellent,16.45,"High Income",credit_card,IL,"Fully Paid",Standard
+68536847,20000.00,170000.00,19.89,E,E3,677,Good,13.92,"High Income",debt_consolidation,NY,Current,"Manual Review"
+68536927,10000.00,105000.00,11.48,B,B5,662,Fair,36.81,"High Income",small_business,GA,"Charged Off","Manual Review"
+68546518,35000.00,240000.00,12.88,C,C2,662,Fair,4.30,"High Income",credit_card,NV,"Fully Paid",Standard
+68606692,15000.00,89000.00,12.88,C,C2,662,Fair,34.58,"Middle Income",debt_consolidation,PA,"Charged Off","Manual Review"
+68476352,5000.00,60000.00,11.99,C,C1,707,Good,19.27,"Middle Income",moving,NJ,"Fully Paid",Standard
+68386516,11000.00,65000.00,13.99,C,C4,672,Good,21.88,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68526519,5500.00,101000.00,15.77,D,D1,677,Good,25.55,"High Income",vacation,CA,"Fully Paid","Manual Review"
+68386517,2500.00,50400.00,11.99,C,C1,667,Fair,12.48,"Lower-Middle Income",home_improvement,CO,"Fully Paid",Standard
+68436580,21150.00,52000.00,15.77,D,D1,687,Good,26.17,"Lower-Middle Income",debt_consolidation,NH,"Fully Paid","Manual Review"
+68426320,20000.00,185000.00,11.48,B,B5,687,Good,25.70,"High Income",debt_consolidation,MO,"Fully Paid",Standard
+68606272,5875.00,25200.00,11.48,B,B5,682,Good,10.48,"Low Income",debt_consolidation,CA,"Fully Paid",Standard
+68494601,24000.00,107000.00,7.49,A,A4,767,"Very Good",15.15,"High Income",car,IL,"Fully Paid",Standard
+68445286,12000.00,46000.00,9.80,B,B3,702,Good,27.42,"Lower-Middle Income",debt_consolidation,MO,"Charged Off",Standard
+68366171,19200.00,113000.00,18.99,E,E1,667,Fair,23.81,"High Income",debt_consolidation,PA,"Charged Off","Manual Review"
+68338634,8000.00,50000.00,13.99,C,C4,682,Good,19.85,"Lower-Middle Income",debt_consolidation,MD,"Fully Paid",Standard
+68526395,35000.00,76000.00,19.89,E,E3,687,Good,21.98,"Middle Income",debt_consolidation,TX,Current,"Manual Review"
+68436531,28000.00,105000.00,15.77,D,D1,672,Good,28.35,"High Income",debt_consolidation,IL,"Fully Paid","Manual Review"
+68446068,13500.00,77000.00,10.78,B,B4,662,Fair,14.45,"Middle Income",credit_card,CA,"Charged Off",Standard
+68396530,27825.00,73000.00,14.85,C,C5,692,Good,22.62,"Middle Income",credit_card,SC,Current,Standard
+68496665,11000.00,125000.00,8.49,B,B1,672,Good,27.87,"High Income",debt_consolidation,MD,"Fully Paid",Standard
+68376147,15000.00,46000.00,10.78,B,B4,687,Good,30.65,"Lower-Middle Income",debt_consolidation,KY,"Fully Paid","Manual Review"
+68526504,20000.00,95000.00,9.80,B,B3,712,Good,21.31,"Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+68575042,28000.00,110000.00,14.85,C,C5,697,Good,24.02,"High Income",debt_consolidation,CT,"Late (31-120 days)",Standard
+68606606,35000.00,173000.00,9.80,B,B3,702,Good,22.42,"High Income",credit_card,NJ,"Fully Paid",Standard
+66505903,24000.00,72219.00,15.77,D,D1,662,Fair,12.07,"Middle Income",debt_consolidation,MD,Current,"Manual Review"
+68406948,10000.00,28600.00,22.45,F,F1,707,Good,26.65,"Low Income",major_purchase,CA,Current,"Manual Review"
+68356482,35000.00,80000.00,11.48,B,B5,767,"Very Good",5.67,"Middle Income",debt_consolidation,VA,Current,Standard
+68587164,25000.00,80000.00,19.89,E,E3,662,Fair,21.53,"Middle Income",debt_consolidation,MD,Current,"Manual Review"
+68376503,10000.00,55000.00,11.48,B,B5,762,"Very Good",22.74,"Lower-Middle Income",credit_card,PA,"Fully Paid",Standard
+68547026,9000.00,105000.00,9.17,B,B2,672,Good,6.31,"High Income",debt_consolidation,NY,"Fully Paid",Standard
+68616501,25000.00,100000.00,18.49,D,D5,682,Good,5.58,"High Income",debt_consolidation,VA,Current,"Manual Review"
+67378611,8400.00,51000.00,16.59,D,D2,692,Good,13.27,"Lower-Middle Income",other,DE,"Charged Off","Manual Review"
+68232772,20000.00,65000.00,12.88,C,C2,672,Good,16.49,"Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68364617,22500.00,93000.00,7.91,A,A5,812,Excellent,14.34,"Middle Income",debt_consolidation,MD,"Fully Paid",Standard
+68132792,20000.00,43000.00,11.99,C,C1,667,Fair,10.58,"Lower-Middle Income",debt_consolidation,PA,Current,Standard
+68396564,20000.00,137000.00,18.49,D,D5,667,Fair,18.48,"High Income",debt_consolidation,NY,"Fully Paid","Manual Review"
+67237769,21000.00,63000.00,11.99,C,C1,687,Good,28.69,"Middle Income",debt_consolidation,MI,"Fully Paid",Standard
+68495065,18700.00,55000.00,13.99,C,C4,737,Good,30.81,"Lower-Middle Income",debt_consolidation,TX,"Fully Paid","Manual Review"
+68416470,35000.00,175000.00,11.99,C,C1,727,Good,33.80,"High Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68341358,21000.00,85000.00,6.99,A,A3,712,Good,24.00,"Middle Income",debt_consolidation,MA,"Fully Paid",Standard
+68416483,30000.00,106000.00,13.44,C,C3,677,Good,14.19,"High Income",credit_card,VA,"Fully Paid",Standard
+68426305,14000.00,124596.00,16.59,D,D2,687,Good,23.73,"High Income",other,FL,"Fully Paid","Manual Review"
+68546834,30000.00,60000.00,13.44,C,C3,727,Good,24.68,"Middle Income",debt_consolidation,NJ,Current,Standard
+68516477,24000.00,450000.00,5.32,A,A1,722,Good,0.70,"High Income",major_purchase,CT,"Fully Paid",Standard
+66220405,35000.00,89000.00,10.78,B,B4,757,"Very Good",19.26,"Middle Income",credit_card,NY,"Fully Paid",Standard
+68614208,35000.00,104500.00,18.99,E,E1,687,Good,20.52,"High Income",debt_consolidation,AR,Current,"Manual Review"
+68476170,3225.00,35000.00,20.50,E,E4,662,Fair,24.01,"Lower-Middle Income",debt_consolidation,IL,"Charged Off","Manual Review"
+68386660,28000.00,108000.00,6.49,A,A2,707,Good,14.63,"High Income",credit_card,TX,"Fully Paid",Standard
+68594018,7200.00,60000.00,9.17,B,B2,737,Good,24.60,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68374108,12000.00,43000.00,9.80,B,B3,697,Good,18.28,"Lower-Middle Income",debt_consolidation,IL,"Fully Paid",Standard
+68506366,21000.00,134000.00,17.97,D,D4,682,Good,26.05,"High Income",debt_consolidation,MI,Current,"Manual Review"
+68516442,35000.00,123000.00,19.48,E,E2,702,Good,21.53,"High Income",debt_consolidation,GA,"Fully Paid","Manual Review"
+68476251,12000.00,118000.00,5.32,A,A1,747,"Very Good",14.06,"High Income",debt_consolidation,TX,"Fully Paid",Standard
+68616576,18000.00,38000.00,10.78,B,B4,722,Good,6.06,"Lower-Middle Income",car,IN,Current,Standard
+68466390,5000.00,38000.00,7.91,A,A5,697,Good,11.78,"Lower-Middle Income",credit_card,PA,"Fully Paid",Standard
+68545253,25000.00,85000.00,13.99,C,C4,672,Good,11.11,"Middle Income",debt_consolidation,CO,"Fully Paid",Standard
+68586213,8750.00,29524.32,18.99,E,E1,682,Good,46.71,"Low Income",debt_consolidation,IL,"Charged Off","Manual Review"
+68616531,6600.00,240000.00,19.48,E,E2,662,Fair,7.04,"High Income",debt_consolidation,OH,"Fully Paid","Manual Review"
+68566440,10000.00,110000.00,9.17,B,B2,717,Good,28.37,"High Income",credit_card,NC,"Fully Paid",Standard
+68426365,12500.00,34000.00,10.78,B,B4,687,Good,27.11,"Lower-Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68415164,26250.00,65000.00,13.99,C,C4,702,Good,26.90,"Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+68535503,24000.00,186000.00,12.88,C,C2,677,Good,8.29,"High Income",debt_consolidation,CA,"Fully Paid",Standard
+68486640,11000.00,101000.00,11.99,C,C1,682,Good,19.04,"High Income",debt_consolidation,MO,Current,Standard
+68062856,15000.00,90000.00,11.48,B,B5,682,Good,14.89,"Middle Income",debt_consolidation,GA,"Fully Paid",Standard
+68242632,13750.00,27500.00,16.59,D,D2,682,Good,36.36,"Low Income",debt_consolidation,NC,"Fully Paid","Manual Review"
+68506347,10500.00,45000.00,9.80,B,B3,692,Good,7.39,"Lower-Middle Income",credit_card,FL,Current,Standard
+68466436,35000.00,117000.00,24.24,F,F3,677,Good,16.82,"High Income",debt_consolidation,IL,"Fully Paid","Manual Review"
+68606663,7000.00,65000.00,12.88,C,C2,672,Good,6.68,"Middle Income",vacation,CA,"Fully Paid",Standard
+68615300,5600.00,91500.00,9.80,B,B3,662,Fair,30.79,"Middle Income",debt_consolidation,NC,"Fully Paid","Manual Review"
+67889088,21000.00,150000.00,9.17,B,B2,667,Fair,13.09,"High Income",debt_consolidation,NY,"Fully Paid",Standard
+68436509,15000.00,85000.00,5.32,A,A1,747,"Very Good",13.56,"Middle Income",debt_consolidation,SD,"Fully Paid",Standard
+68606744,14725.00,33500.00,14.85,C,C5,692,Good,20.92,"Lower-Middle Income",debt_consolidation,MO,Current,Standard
+68566430,6400.00,53000.00,9.17,B,B2,697,Good,14.40,"Lower-Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+68426263,8400.00,72701.00,9.80,B,B3,672,Good,20.42,"Middle Income",credit_card,GA,"Fully Paid",Standard
+68596155,20000.00,150000.00,15.77,D,D1,687,Good,11.66,"High Income",other,MD,"Fully Paid","Manual Review"
+67999602,15000.00,37534.44,14.85,C,C5,682,Good,31.44,"Lower-Middle Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68406962,28000.00,97666.07,11.99,C,C1,682,Good,9.07,"Middle Income",home_improvement,CA,Current,Standard
+68436451,25000.00,70000.00,9.17,B,B2,702,Good,15.16,"Middle Income",credit_card,PA,Current,Standard
+68476224,13600.00,61983.00,11.48,B,B5,692,Good,2.87,"Middle Income",debt_consolidation,MD,"Fully Paid",Standard
+68547082,18000.00,63000.00,13.99,C,C4,677,Good,17.49,"Middle Income",debt_consolidation,MD,"Fully Paid",Standard
+67268365,35000.00,160000.00,18.49,D,D5,697,Good,14.65,"High Income",debt_consolidation,MD,"Fully Paid","Manual Review"
+68356386,20000.00,58000.00,8.49,B,B1,682,Good,31.24,"Lower-Middle Income",debt_consolidation,TX,"Fully Paid","Manual Review"
+68587253,20000.00,139000.00,5.32,A,A1,707,Good,9.24,"High Income",credit_card,NY,"Fully Paid",Standard
+68436387,11075.00,55000.00,26.06,F,F5,662,Fair,28.77,"Lower-Middle Income",debt_consolidation,NM,Current,"Manual Review"
+68232437,11200.00,53000.00,9.17,B,B2,722,Good,11.96,"Lower-Middle Income",debt_consolidation,AZ,"Fully Paid",Standard
+68338627,25000.00,62000.00,6.49,A,A2,727,Good,27.24,"Middle Income",credit_card,GA,"Fully Paid",Standard
+68577474,2500.00,29000.00,7.91,A,A5,757,"Very Good",21.19,"Low Income",debt_consolidation,TX,"Fully Paid",Standard
+67909152,15000.00,65000.00,11.48,B,B5,762,"Very Good",6.63,"Middle Income",debt_consolidation,NJ,Current,Standard
+68587297,16000.00,75000.00,8.49,B,B1,687,Good,19.44,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+67605440,5600.00,50000.00,13.44,C,C3,742,"Very Good",28.73,"Lower-Middle Income",debt_consolidation,VA,"Charged Off",Standard
+68354914,10000.00,70000.00,7.49,A,A4,777,"Very Good",13.30,"Middle Income",home_improvement,NJ,"Fully Paid",Standard
+68416372,3200.00,24000.00,9.80,B,B3,672,Good,18.05,"Low Income",credit_card,FL,"Charged Off",Standard
+68142737,28000.00,135000.00,5.32,A,A1,702,Good,8.56,"High Income",credit_card,IL,"Fully Paid",Standard
+68486647,15000.00,75000.00,10.78,B,B4,707,Good,26.24,"Middle Income",debt_consolidation,AL,"Fully Paid",Standard
+68547031,21600.00,120000.00,6.99,A,A3,717,Good,15.84,"High Income",debt_consolidation,GA,"Fully Paid",Standard
+68416415,15000.00,54000.00,8.49,B,B1,772,"Very Good",22.02,"Lower-Middle Income",debt_consolidation,MO,Current,Standard
+68486835,10000.00,75000.00,5.32,A,A1,712,Good,3.86,"Middle Income",credit_card,CT,"Fully Paid",Standard
+68616377,24000.00,116500.00,19.48,E,E2,672,Good,17.54,"High Income",credit_card,OK,Current,"Manual Review"
+68386525,5000.00,92000.00,9.80,B,B3,672,Good,16.01,"Middle Income",credit_card,OH,"Charged Off",Standard
+68606589,18200.00,150000.00,8.49,B,B1,717,Good,12.06,"High Income",debt_consolidation,CA,Current,Standard
+68616366,12000.00,73000.00,6.49,A,A2,717,Good,14.75,"Middle Income",credit_card,TN,"Fully Paid",Standard
+67275715,15175.00,58000.00,17.27,D,D3,747,"Very Good",7.57,"Lower-Middle Income",home_improvement,IL,"Charged Off","Manual Review"
+68341406,21000.00,80000.00,9.17,B,B2,707,Good,14.69,"Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68396437,7000.00,16968.00,5.32,A,A1,742,"Very Good",12.87,"Low Income",credit_card,OH,"Fully Paid",Standard
+68544948,12000.00,108000.00,7.49,A,A4,717,Good,6.92,"High Income",debt_consolidation,OR,"Fully Paid",Standard
+66563086,3200.00,49000.00,10.78,B,B4,667,Fair,25.91,"Lower-Middle Income",debt_consolidation,TN,"Fully Paid",Standard
+68616311,7200.00,52000.00,14.85,C,C5,672,Good,39.21,"Lower-Middle Income",credit_card,NC,"Charged Off","Manual Review"
+68577345,13200.00,45000.00,12.88,C,C2,677,Good,32.56,"Lower-Middle Income",debt_consolidation,MN,"Fully Paid","Manual Review"
+68385564,20000.00,65000.00,12.88,C,C2,732,Good,17.38,"Middle Income",debt_consolidation,WA,"Charged Off",Standard
+68496618,18000.00,120000.00,8.49,B,B1,702,Good,6.42,"High Income",credit_card,TX,"Charged Off",Standard
+68062737,18000.00,50000.00,16.59,D,D2,707,Good,14.69,"Lower-Middle Income",debt_consolidation,WA,"Fully Paid","Manual Review"
+68526489,7500.00,75000.00,15.77,D,D1,667,Fair,9.74,"Middle Income",debt_consolidation,CO,"Fully Paid","Manual Review"
+68426254,15000.00,118000.00,12.88,C,C2,707,Good,23.70,"High Income",credit_card,MD,"Fully Paid",Standard
+68547044,2400.00,50000.00,7.49,A,A4,737,Good,11.67,"Lower-Middle Income",credit_card,NJ,"Fully Paid",Standard
+68466462,2000.00,119945.00,13.44,C,C3,662,Fair,15.61,"High Income",debt_consolidation,MD,"Fully Paid",Standard
+68416482,10000.00,100000.00,12.88,C,C2,677,Good,16.18,"High Income",credit_card,FL,"Fully Paid",Standard
+68466464,30000.00,103000.00,18.49,D,D5,677,Good,22.36,"High Income",debt_consolidation,TX,"Charged Off","Manual Review"
+66624293,25000.00,105000.00,7.91,A,A5,707,Good,16.87,"High Income",other,GA,"Fully Paid",Standard
+68386637,3500.00,50000.00,14.85,C,C5,682,Good,16.39,"Lower-Middle Income",debt_consolidation,TX,Current,Standard
+68547073,11925.00,50000.00,8.49,B,B1,772,"Very Good",28.44,"Lower-Middle Income",debt_consolidation,LA,"Fully Paid",Standard
+68466416,3000.00,75000.00,6.49,A,A2,687,Good,13.38,"Middle Income",home_improvement,NY,"Fully Paid",Standard
+68446245,24000.00,99000.00,14.85,C,C5,712,Good,24.69,"Middle Income",home_improvement,IL,Current,Standard
+68486872,13200.00,98000.00,9.17,B,B2,667,Fair,10.03,"Middle Income",credit_card,WA,"Charged Off",Standard
+68386577,5000.00,48000.00,12.88,C,C2,692,Good,17.48,"Lower-Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68506309,21000.00,225000.00,13.99,C,C4,677,Good,28.41,"High Income",debt_consolidation,NJ,Current,Standard
+68577115,9000.00,81000.00,9.80,B,B3,662,Fair,22.64,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68406795,10000.00,43000.00,9.17,B,B2,712,Good,12.39,"Lower-Middle Income",debt_consolidation,MN,"Fully Paid",Standard
+68566384,12000.00,49000.00,17.27,D,D3,687,Good,28.92,"Lower-Middle Income",debt_consolidation,WI,Current,"Manual Review"
+67347650,1000.00,36522.00,11.99,C,C1,662,Fair,35.72,"Lower-Middle Income",other,NY,"Fully Paid","Manual Review"
+68595667,12000.00,35000.00,13.99,C,C4,702,Good,32.68,"Lower-Middle Income",debt_consolidation,OH,"Charged Off","Manual Review"
+68486660,35000.00,103500.00,10.78,B,B4,737,Good,21.24,"High Income",credit_card,MI,Current,Standard
+68596406,24000.00,200000.00,5.32,A,A1,712,Good,22.55,"High Income",debt_consolidation,FL,"Fully Paid",Standard
+68587130,8500.00,35500.00,9.17,B,B2,702,Good,5.88,"Lower-Middle Income",credit_card,IL,"Fully Paid",Standard
+68546971,3500.00,56000.00,6.49,A,A2,682,Good,19.03,"Lower-Middle Income",debt_consolidation,MN,"Fully Paid",Standard
+67755216,16100.00,50000.00,17.27,D,D3,687,Good,15.96,"Lower-Middle Income",debt_consolidation,NY,"Fully Paid","Manual Review"
+68496354,12000.00,185000.00,8.49,B,B1,712,Good,15.06,"High Income",debt_consolidation,MA,Current,Standard
+68566111,10000.00,117000.00,19.48,E,E2,737,Good,12.73,"High Income",small_business,CA,"Fully Paid","Manual Review"
+68212760,6000.00,42000.00,8.49,B,B1,732,Good,26.06,"Lower-Middle Income",debt_consolidation,MI,"Fully Paid",Standard
+68376320,5000.00,61000.00,6.99,A,A3,712,Good,30.53,"Middle Income",debt_consolidation,MI,"Fully Paid","Manual Review"
+68616045,18000.00,100000.00,6.49,A,A2,722,Good,10.49,"High Income",debt_consolidation,LA,"Fully Paid",Standard
+68436190,1000.00,30000.00,13.99,C,C4,682,Good,31.08,"Lower-Middle Income",other,TN,"Charged Off","Manual Review"
+68485231,3850.00,45000.00,13.44,C,C3,692,Good,22.59,"Lower-Middle Income",debt_consolidation,NE,"Fully Paid",Standard
+68586953,2000.00,35000.00,11.99,C,C1,662,Fair,4.01,"Lower-Middle Income",debt_consolidation,MI,"Fully Paid",Standard
+68396312,20000.00,56000.00,10.78,B,B4,762,"Very Good",21.80,"Lower-Middle Income",debt_consolidation,FL,Current,Standard
+67298976,10175.00,63900.00,19.89,E,E3,687,Good,20.28,"Middle Income",credit_card,PA,"Fully Paid","Manual Review"
+68376303,10000.00,70000.00,6.99,A,A3,732,Good,21.79,"Middle Income",home_improvement,AZ,"Fully Paid",Standard
+68577043,20000.00,52000.00,9.80,B,B3,747,"Very Good",17.75,"Lower-Middle Income",debt_consolidation,VA,"Fully Paid",Standard
+68466189,35000.00,110000.00,10.78,B,B4,707,Good,25.38,"High Income",credit_card,GA,"Fully Paid",Standard
+68544404,20000.00,93534.00,12.88,C,C2,752,"Very Good",13.95,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+67809379,14000.00,45000.00,20.50,E,E4,672,Good,24.80,"Lower-Middle Income",debt_consolidation,SC,Current,"Manual Review"
+68616197,20000.00,95000.00,6.49,A,A2,742,"Very Good",12.63,"Middle Income",debt_consolidation,TN,"Fully Paid",Standard
+68386416,12250.00,26679.38,14.85,C,C5,712,Good,34.10,"Low Income",debt_consolidation,CA,"Charged Off","Manual Review"
+68526250,15000.00,90000.00,5.32,A,A1,767,"Very Good",16.91,"Middle Income",credit_card,MO,"Fully Paid",Standard
+68496489,10000.00,80000.00,5.32,A,A1,687,Good,5.27,"Middle Income",credit_card,CA,"Fully Paid",Standard
+68436340,3600.00,39000.00,10.78,B,B4,767,"Very Good",9.48,"Lower-Middle Income",credit_card,IL,"Fully Paid",Standard
+68445972,5000.00,68500.00,11.99,C,C1,677,Good,16.36,"Middle Income",home_improvement,NJ,"Fully Paid",Standard
+68466298,35000.00,80000.00,11.99,C,C1,727,Good,26.84,"Middle Income",credit_card,TN,"Fully Paid",Standard
+68577081,13000.00,38000.00,12.88,C,C2,677,Good,25.89,"Lower-Middle Income",home_improvement,MS,"Fully Paid",Standard
+68356287,4000.00,35000.00,16.59,D,D2,667,Fair,11.45,"Lower-Middle Income",debt_consolidation,TX,"Charged Off","Manual Review"
+68406733,22450.00,74000.00,18.99,E,E1,677,Good,33.18,"Middle Income",debt_consolidation,WA,"Charged Off","Manual Review"
+68486534,4800.00,45000.00,11.99,C,C1,672,Good,10.29,"Lower-Middle Income",credit_card,TX,"Fully Paid",Standard
+68485971,21275.00,56035.00,14.85,C,C5,687,Good,32.79,"Lower-Middle Income",debt_consolidation,MN,"Fully Paid","Manual Review"
+67358467,15000.00,100000.00,5.32,A,A1,747,"Very Good",15.76,"High Income",credit_card,CA,"Fully Paid",Standard
+68426094,12000.00,110000.00,12.88,C,C2,682,Good,9.44,"High Income",credit_card,TX,"Fully Paid",Standard
+68586878,34125.00,132000.00,17.27,D,D3,692,Good,28.86,"High Income",home_improvement,NC,Current,"Manual Review"
+68566246,9650.00,55500.00,12.88,C,C2,662,Fair,15.18,"Lower-Middle Income",debt_consolidation,MA,"Fully Paid",Standard
+68566149,24000.00,100000.00,9.80,B,B3,667,Fair,15.46,"High Income",debt_consolidation,FL,"Fully Paid",Standard
+68340530,35000.00,134000.00,10.78,B,B4,727,Good,23.09,"High Income",debt_consolidation,TX,"Fully Paid",Standard
+68366327,25000.00,125000.00,5.32,A,A1,717,Good,6.66,"High Income",credit_card,MN,"Fully Paid",Standard
+68446030,9100.00,40000.00,7.91,A,A5,742,"Very Good",12.57,"Lower-Middle Income",debt_consolidation,MI,"Fully Paid",Standard
+68192729,25000.00,118450.00,14.85,C,C5,697,Good,25.97,"High Income",debt_consolidation,MA,"Fully Paid",Standard
+68546877,18000.00,60000.00,7.49,A,A4,742,"Very Good",35.00,"Middle Income",credit_card,FL,"Fully Paid","Manual Review"
+68386356,10800.00,123000.00,11.48,B,B5,682,Good,23.62,"High Income",credit_card,AZ,"Fully Paid",Standard
+68606383,9600.00,150000.00,9.17,B,B2,662,Fair,5.54,"High Income",debt_consolidation,FL,"Fully Paid",Standard
+68476092,3600.00,55000.00,11.48,B,B5,722,Good,14.10,"Lower-Middle Income",debt_consolidation,OH,"Fully Paid",Standard
+68526124,12000.00,100000.00,12.88,C,C2,662,Fair,12.31,"High Income",credit_card,NY,"Charged Off",Standard
+68445999,35000.00,88000.00,11.99,C,C1,697,Good,13.30,"Middle Income",credit_card,OR,Current,Standard
+68486599,12000.00,65000.00,6.49,A,A2,767,"Very Good",19.24,"Middle Income",home_improvement,PA,"Fully Paid",Standard
+68506121,18000.00,89000.00,6.99,A,A3,682,Good,13.88,"Middle Income",credit_card,MN,"Fully Paid",Standard
+68202804,22925.00,51000.00,16.59,D,D2,722,Good,31.04,"Lower-Middle Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68425997,8000.00,120000.00,6.49,A,A2,777,"Very Good",4.91,"High Income",credit_card,CA,"Fully Paid",Standard
+68596328,7000.00,100000.00,8.49,B,B1,677,Good,29.75,"High Income",home_improvement,MI,"Fully Paid",Standard
+68546741,4500.00,39600.00,9.80,B,B3,707,Good,22.82,"Lower-Middle Income",debt_consolidation,MD,"Fully Paid",Standard
+68366309,11500.00,33888.00,19.48,E,E2,662,Fair,39.16,"Lower-Middle Income",other,VA,"Fully Paid","Manual Review"
+68416138,18725.00,50000.00,17.97,D,D4,697,Good,25.83,"Lower-Middle Income",home_improvement,FL,Current,"Manual Review"
+68415392,19500.00,85000.00,19.89,E,E3,667,Fair,25.40,"Middle Income",debt_consolidation,TN,Current,"Manual Review"
+68496453,5000.00,52000.00,9.17,B,B2,757,"Very Good",24.79,"Lower-Middle Income",other,TX,"Fully Paid",Standard
+68376196,5000.00,141934.00,8.49,B,B1,712,Good,25.58,"High Income",credit_card,TX,"Charged Off",Standard
+68536806,2800.00,114400.00,17.27,D,D3,697,Good,6.34,"High Income",debt_consolidation,FL,"Fully Paid","Manual Review"
+68062777,14150.00,28321.00,13.44,C,C3,722,Good,13.56,"Low Income",credit_card,NY,Current,Standard
+67799895,12000.00,75000.00,9.80,B,B3,687,Good,14.11,"Middle Income",small_business,WI,"Fully Paid",Standard
+68446125,16075.00,66666.00,12.88,C,C2,667,Fair,13.29,"Middle Income",debt_consolidation,OH,"Fully Paid",Standard
+68386395,21000.00,85000.00,9.17,B,B2,687,Good,14.65,"Middle Income",credit_card,PA,"Fully Paid",Standard
+68606458,20000.00,71665.00,5.32,A,A1,717,Good,12.31,"Middle Income",debt_consolidation,IL,"Fully Paid",Standard
+66096897,19200.00,132000.00,9.17,B,B2,707,Good,20.33,"High Income",home_improvement,CA,Current,Standard
+67890239,28000.00,95000.00,8.49,B,B1,712,Good,19.60,"Middle Income",credit_card,TX,"Charged Off",Standard
+68453653,15000.00,89000.00,9.80,B,B3,762,"Very Good",19.50,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68446180,15000.00,101000.00,17.27,D,D3,662,Fair,39.87,"High Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68516266,35000.00,84000.00,19.48,E,E2,677,Good,14.93,"Middle Income",debt_consolidation,LA,Current,"Manual Review"
+67848475,24000.00,120000.00,13.99,C,C4,702,Good,8.91,"High Income",debt_consolidation,LA,"Fully Paid",Standard
+68586833,35000.00,120000.00,15.77,D,D1,692,Good,13.34,"High Income",credit_card,VA,"Fully Paid","Manual Review"
+68406624,17125.00,45000.00,27.99,G,G3,662,Fair,17.44,"Lower-Middle Income",debt_consolidation,RI,"Fully Paid","Manual Review"
+68356089,30000.00,70000.00,13.99,C,C4,692,Good,19.90,"Middle Income",debt_consolidation,MO,"Charged Off",Standard
+68577138,8000.00,43500.00,10.78,B,B4,667,Fair,11.98,"Lower-Middle Income",debt_consolidation,TX,"Charged Off",Standard
+68577155,5000.00,113000.00,9.17,B,B2,672,Good,26.45,"High Income",credit_card,OH,"Fully Paid",Standard
+68436237,9100.00,70000.00,9.17,B,B2,727,Good,25.60,"Middle Income",credit_card,MA,"Fully Paid",Standard
+68516197,1800.00,50000.00,7.49,A,A4,692,Good,8.28,"Lower-Middle Income",credit_card,FL,"Fully Paid",Standard
+68506096,4850.00,56000.00,7.49,A,A4,772,"Very Good",6.15,"Lower-Middle Income",debt_consolidation,MN,"Fully Paid",Standard
+67329305,24000.00,127000.00,6.99,A,A3,712,Good,12.07,"High Income",home_improvement,GA,"Fully Paid",Standard
+67988731,8000.00,31500.00,5.32,A,A1,752,"Very Good",15.62,"Lower-Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68212274,10000.00,35000.00,9.17,B,B2,677,Good,11.69,"Lower-Middle Income",credit_card,WA,"Fully Paid",Standard
+68340540,30000.00,89000.00,10.78,B,B4,682,Good,17.72,"Middle Income",debt_consolidation,TX,Current,Standard
+68526208,9600.00,64567.05,6.49,A,A2,682,Good,10.48,"Middle Income",credit_card,FL,"Fully Paid",Standard
+68574173,35000.00,100000.00,19.48,E,E2,707,Good,22.28,"High Income",debt_consolidation,IL,Current,"Manual Review"
+68584702,20000.00,52000.00,18.99,E,E1,667,Fair,26.93,"Lower-Middle Income",credit_card,MS,"Fully Paid","Manual Review"
+68466335,10000.00,32500.00,5.32,A,A1,797,"Very Good",12.15,"Lower-Middle Income",credit_card,DE,"Fully Paid",Standard
+68516214,6000.00,80000.00,5.32,A,A1,747,"Very Good",13.50,"Middle Income",credit_card,WV,"Fully Paid",Standard
+68523332,22000.00,110000.00,5.32,A,A1,772,"Very Good",7.21,"High Income",credit_card,TX,"Fully Paid",Standard
+68546827,28000.00,82000.00,11.99,C,C1,822,Excellent,10.57,"Middle Income",home_improvement,CA,"Fully Paid",Standard
+68516324,5000.00,93000.00,7.91,A,A5,682,Good,14.30,"Middle Income",credit_card,FL,"Fully Paid",Standard
+68446077,12500.00,85000.00,9.17,B,B2,732,Good,9.30,"Middle Income",debt_consolidation,ME,Current,Standard
+68586642,18000.00,76000.00,5.32,A,A1,752,"Very Good",18.44,"Middle Income",home_improvement,GA,"Fully Paid",Standard
+68526280,10000.00,80000.00,5.32,A,A1,732,Good,25.73,"Middle Income",credit_card,SC,"Fully Paid",Standard
+68535736,11200.00,37000.00,11.99,C,C1,677,Good,7.78,"Lower-Middle Income",debt_consolidation,IN,"Charged Off",Standard
+68416327,2150.00,18300.00,17.27,D,D3,697,Good,11.74,"Low Income",medical,OH,"Charged Off","Manual Review"
+68553376,9000.00,110000.00,12.88,C,C2,677,Good,17.29,"High Income",debt_consolidation,MO,"Fully Paid",Standard
+68366362,12500.00,99500.00,7.49,A,A4,707,Good,12.18,"Middle Income",debt_consolidation,RI,"Fully Paid",Standard
+68476214,6000.00,52000.00,5.32,A,A1,767,"Very Good",15.82,"Lower-Middle Income",credit_card,NM,"Fully Paid",Standard
+68564614,20000.00,60000.00,14.85,C,C5,717,Good,26.02,"Middle Income",debt_consolidation,SC,"Charged Off",Standard
+68446144,21000.00,90000.00,16.59,D,D2,712,Good,12.09,"Middle Income",debt_consolidation,CA,"Charged Off","Manual Review"
+68062754,35000.00,148000.00,11.99,C,C1,737,Good,13.33,"High Income",credit_card,NC,"Fully Paid",Standard
+67325759,30000.00,94000.00,16.59,D,D2,687,Good,33.15,"Middle Income",debt_consolidation,TN,"Fully Paid","Manual Review"
+68525937,6000.00,36000.00,8.49,B,B1,712,Good,23.84,"Lower-Middle Income",debt_consolidation,NJ,"Fully Paid",Standard
+68566108,28000.00,111000.00,7.91,A,A5,717,Good,17.76,"High Income",debt_consolidation,GA,"Fully Paid",Standard
+67298392,6000.00,51000.00,11.99,C,C1,707,Good,25.04,"Lower-Middle Income",debt_consolidation,OR,"Fully Paid",Standard
+68496404,15000.00,120000.00,13.44,C,C3,677,Good,28.77,"High Income",debt_consolidation,NY,Current,Standard
+68606485,14000.00,105000.00,9.17,B,B2,687,Good,9.11,"High Income",credit_card,MA,Current,Standard
+68356286,15000.00,103000.00,11.99,C,C1,682,Good,32.33,"High Income",home_improvement,TX,"Charged Off","Manual Review"
+66411184,30800.00,111000.00,17.97,D,D4,702,Good,33.98,"High Income",credit_card,VA,"Fully Paid","Manual Review"
+68416253,12000.00,86308.00,10.78,B,B4,692,Good,19.13,"Middle Income",debt_consolidation,MD,"Charged Off",Standard
+68486602,2000.00,86564.00,12.88,C,C2,662,Fair,27.73,"Middle Income",credit_card,VA,"Fully Paid",Standard
+68376191,4275.00,38500.00,17.27,D,D3,662,Fair,28.55,"Lower-Middle Income",debt_consolidation,NY,"Fully Paid","Manual Review"
+68466135,6000.00,42000.00,5.32,A,A1,747,"Very Good",16.11,"Lower-Middle Income",home_improvement,MD,"Fully Paid",Standard
+68496423,18000.00,45000.00,7.91,A,A5,692,Good,10.48,"Lower-Middle Income",credit_card,MN,"Fully Paid",Standard
+68376383,25000.00,70000.00,11.99,C,C1,672,Good,23.21,"Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68396300,6000.00,41500.00,9.80,B,B3,677,Good,19.81,"Lower-Middle Income",credit_card,NJ,"Fully Paid",Standard
+68616256,9900.00,57000.00,9.17,B,B2,692,Good,21.71,"Lower-Middle Income",credit_card,MA,"Fully Paid",Standard
+68586963,35000.00,125000.00,7.49,A,A4,722,Good,21.72,"High Income",credit_card,WA,"Fully Paid",Standard
+68386352,18250.00,36500.00,19.89,E,E3,672,Good,27.52,"Lower-Middle Income",debt_consolidation,TN,"Charged Off","Manual Review"
+68425452,12000.00,110000.00,5.32,A,A1,747,"Very Good",16.19,"High Income",credit_card,PA,"Fully Paid",Standard
+68423841,30000.00,139000.00,12.88,C,C2,662,Fair,21.38,"High Income",credit_card,WA,"Fully Paid",Standard
+68606504,21000.00,80000.00,9.17,B,B2,707,Good,23.42,"Middle Income",debt_consolidation,GA,"Fully Paid",Standard
+68356337,1000.00,45000.00,12.88,C,C2,697,Good,39.11,"Lower-Middle Income",other,VA,"Fully Paid","Manual Review"
+68446017,3600.00,55000.00,11.99,C,C1,662,Fair,27.93,"Lower-Middle Income",debt_consolidation,FL,"Charged Off",Standard
+68339340,12000.00,47140.00,11.48,B,B5,697,Good,33.10,"Lower-Middle Income",debt_consolidation,NJ,"Fully Paid","Manual Review"
+67849899,20000.00,100000.00,6.99,A,A3,762,"Very Good",7.10,"High Income",debt_consolidation,NY,"Fully Paid",Standard
+68504948,15000.00,55000.00,5.32,A,A1,692,Good,25.25,"Lower-Middle Income",credit_card,NJ,"Fully Paid",Standard
+68576157,30000.00,80000.00,15.77,D,D1,662,Fair,36.05,"Middle Income",debt_consolidation,MN,Current,"Manual Review"
+68546214,7000.00,41000.00,11.48,B,B5,672,Good,19.79,"Lower-Middle Income",home_improvement,MI,"Fully Paid",Standard
+68595847,30000.00,112000.00,14.85,C,C5,672,Good,19.07,"High Income",debt_consolidation,FL,"Fully Paid",Standard
+68385418,2000.00,43500.00,13.44,C,C3,687,Good,27.61,"Lower-Middle Income",debt_consolidation,AR,"Fully Paid",Standard
+68546844,13000.00,45000.00,10.78,B,B4,697,Good,26.64,"Lower-Middle Income",debt_consolidation,KY,"Fully Paid",Standard
+68526168,15000.00,170000.00,7.91,A,A5,747,"Very Good",7.24,"High Income",credit_card,PA,"Fully Paid",Standard
+68577192,17000.00,89000.00,12.88,C,C2,682,Good,21.02,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68606424,14000.00,65000.00,6.99,A,A3,737,Good,15.22,"Middle Income",debt_consolidation,NJ,"Fully Paid",Standard
+68366348,10500.00,47000.00,18.49,D,D5,687,Good,29.55,"Lower-Middle Income",debt_consolidation,NC,"Charged Off","Manual Review"
+68576962,15000.00,43500.00,13.44,C,C3,667,Fair,24.61,"Lower-Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68596251,12600.00,73000.00,7.91,A,A5,687,Good,21.58,"Middle Income",credit_card,IN,"Fully Paid",Standard
+68586919,12000.00,98000.00,5.32,A,A1,777,"Very Good",17.73,"Middle Income",major_purchase,CA,"Fully Paid",Standard
+68366326,28000.00,118000.00,15.77,D,D1,712,Good,35.91,"High Income",debt_consolidation,IN,"Fully Paid","Manual Review"
+68506242,11750.00,28000.00,28.49,G,G4,692,Good,22.16,"Low Income",debt_consolidation,MS,"Charged Off","Manual Review"
+68476096,24000.00,105000.00,9.80,B,B3,707,Good,8.32,"High Income",debt_consolidation,TX,"Fully Paid",Standard
+68546780,8300.00,52000.00,7.91,A,A5,672,Good,9.46,"Lower-Middle Income",debt_consolidation,CO,"Fully Paid",Standard
+68446215,15000.00,67879.00,7.49,A,A4,732,Good,29.60,"Middle Income",credit_card,NY,"Fully Paid",Standard
+68536802,24000.00,65000.00,14.85,C,C5,677,Good,22.29,"Middle Income",debt_consolidation,TX,Current,Standard
+68506210,8000.00,53000.00,10.78,B,B4,672,Good,20.13,"Lower-Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68616285,24000.00,230000.00,18.99,E,E1,677,Good,14.44,"High Income",debt_consolidation,OR,"Charged Off","Manual Review"
+68566144,35000.00,90000.00,14.85,C,C5,727,Good,19.13,"Middle Income",debt_consolidation,OH,"Fully Paid",Standard
+68476147,12000.00,85000.00,11.48,B,B5,722,Good,22.87,"Middle Income",debt_consolidation,PA,"Fully Paid",Standard
+68586984,13050.00,43500.00,26.06,F,F5,717,Good,22.79,"Lower-Middle Income",debt_consolidation,NC,"Fully Paid","Manual Review"
+68616073,14000.00,160000.00,11.99,C,C1,732,Good,12.98,"High Income",debt_consolidation,AL,Current,Standard
+68546923,8400.00,95000.00,5.32,A,A1,727,Good,21.79,"Middle Income",debt_consolidation,NJ,"Charged Off",Standard
+68416151,9600.00,90000.00,9.17,B,B2,707,Good,15.15,"Middle Income",debt_consolidation,KY,"Fully Paid",Standard
+68396279,10000.00,35000.00,9.17,B,B2,707,Good,10.55,"Lower-Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68526276,1800.00,72000.00,9.17,B,B2,757,"Very Good",13.42,"Middle Income",debt_consolidation,GA,"Fully Paid",Standard
+68486598,15000.00,94000.00,12.88,C,C2,672,Good,13.21,"Middle Income",debt_consolidation,OH,"Fully Paid",Standard
+67575363,6000.00,20000.00,9.17,B,B2,717,Good,16.99,"Low Income",debt_consolidation,WA,"Fully Paid",Standard
+68496382,10000.00,35000.00,6.49,A,A2,757,"Very Good",19.44,"Lower-Middle Income",home_improvement,MI,"Fully Paid",Standard
+68436232,25000.00,99000.00,5.32,A,A1,747,"Very Good",18.47,"Middle Income",credit_card,IL,"Fully Paid",Standard
+68062761,8675.00,36000.00,19.89,E,E3,677,Good,33.93,"Lower-Middle Income",debt_consolidation,MD,"Fully Paid","Manual Review"
+67437816,14000.00,44500.00,14.85,C,C5,672,Good,20.05,"Lower-Middle Income",debt_consolidation,LA,"Charged Off",Standard
+68615524,16000.00,64000.00,12.88,C,C2,687,Good,5.76,"Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68466270,21700.00,60300.00,22.45,F,F1,672,Good,24.74,"Middle Income",debt_consolidation,MD,"Fully Paid","Manual Review"
+68616129,2800.00,58000.00,17.97,D,D4,697,Good,18.60,"Lower-Middle Income",small_business,CA,"Fully Paid","Manual Review"
+68526115,3600.00,150000.00,6.99,A,A3,727,Good,28.08,"High Income",debt_consolidation,MA,"Fully Paid",Standard
+68576996,20000.00,105000.00,6.99,A,A3,712,Good,19.02,"High Income",credit_card,OH,"Fully Paid",Standard
+68474286,30000.00,88000.00,19.48,E,E2,667,Fair,18.47,"Middle Income",debt_consolidation,TX,"Fully Paid","Manual Review"
+68393490,20000.00,105000.00,7.49,A,A4,702,Good,9.71,"High Income",debt_consolidation,NC,"Fully Paid",Standard
+68616236,30000.00,98000.00,20.50,E,E4,662,Fair,7.96,"Middle Income",debt_consolidation,MA,"Fully Paid","Manual Review"
+68396314,10000.00,75000.00,9.80,B,B3,702,Good,14.16,"Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68366445,30000.00,70000.00,13.99,C,C4,767,"Very Good",20.72,"Middle Income",home_improvement,NC,"Fully Paid",Standard
+68486645,3350.00,42251.00,7.91,A,A5,682,Good,23.49,"Lower-Middle Income",credit_card,MS,"Fully Paid",Standard
+68062788,12000.00,50000.00,18.99,E,E1,667,Fair,21.87,"Lower-Middle Income",credit_card,CA,"Charged Off","Manual Review"
+68476141,6000.00,67000.00,7.49,A,A4,717,Good,29.05,"Middle Income",credit_card,UT,"Fully Paid",Standard
+68366369,19200.00,65000.00,10.78,B,B4,692,Good,15.50,"Middle Income",debt_consolidation,GA,"Fully Paid",Standard
+68486648,12000.00,110000.00,11.48,B,B5,677,Good,4.90,"High Income",debt_consolidation,GA,"Fully Paid",Standard
+68586872,20000.00,78000.00,6.49,A,A2,732,Good,21.60,"Middle Income",credit_card,FL,"Fully Paid",Standard
+68395978,13200.00,61000.00,14.85,C,C5,682,Good,15.42,"Middle Income",debt_consolidation,NY,"Fully Paid",Standard
+66424761,35000.00,145000.00,7.91,A,A5,712,Good,13.77,"High Income",credit_card,NC,"Fully Paid",Standard
+68475219,14400.00,47000.00,8.49,B,B1,717,Good,27.96,"Lower-Middle Income",debt_consolidation,TX,"Fully Paid",Standard
+68566263,3000.00,45000.00,11.48,B,B5,767,"Very Good",15.73,"Lower-Middle Income",debt_consolidation,GA,"Fully Paid",Standard
+68406784,23200.00,110000.00,9.17,B,B2,667,Fair,18.84,"High Income",credit_card,MA,"Fully Paid",Standard
+68062801,18250.00,39696.00,11.48,B,B5,667,Fair,24.55,"Lower-Middle Income",credit_card,GA,"Fully Paid",Standard
+68406429,14000.00,75000.00,19.89,E,E3,662,Fair,16.03,"Middle Income",debt_consolidation,OH,"Fully Paid","Manual Review"
+68616110,12000.00,90000.00,13.99,C,C4,672,Good,29.15,"Middle Income",debt_consolidation,OH,"Charged Off",Standard
+68426043,3000.00,50740.00,13.44,C,C3,672,Good,17.24,"Lower-Middle Income",other,AZ,"Fully Paid",Standard
+68586816,4000.00,83500.00,7.49,A,A4,757,"Very Good",2.17,"Middle Income",car,MI,"Fully Paid",Standard
+68577070,5000.00,65000.00,11.99,C,C1,692,Good,18.52,"Middle Income",major_purchase,TX,"Charged Off",Standard
+68272601,12425.00,24897.72,18.99,E,E1,722,Good,6.62,"Low Income",debt_consolidation,NY,"Fully Paid","Manual Review"
+67908904,31325.00,157000.00,15.77,D,D1,692,Good,30.13,"High Income",credit_card,NY,"Fully Paid","Manual Review"
+68386309,28000.00,82000.00,6.49,A,A2,702,Good,12.67,"Middle Income",credit_card,CT,"Fully Paid",Standard
+68536168,2500.00,32000.00,14.85,C,C5,672,Good,16.73,"Lower-Middle Income",major_purchase,CA,"Fully Paid",Standard
+68616060,24000.00,150000.00,8.49,B,B1,687,Good,23.70,"High Income",debt_consolidation,CA,Current,Standard
+68546837,5000.00,29000.00,8.49,B,B1,692,Good,6.46,"Low Income",debt_consolidation,AL,"Fully Paid",Standard
+67476439,17200.00,37440.00,17.27,D,D3,682,Good,33.37,"Lower-Middle Income",debt_consolidation,MD,Current,"Manual Review"
+68466172,15000.00,57000.00,11.48,B,B5,682,Good,20.67,"Lower-Middle Income",credit_card,IL,Current,Standard
+68496517,14400.00,85000.00,11.99,C,C1,662,Fair,21.78,"Middle Income",home_improvement,AL,Current,Standard
+68576989,1400.00,54000.00,16.59,D,D2,667,Fair,20.24,"Lower-Middle Income",home_improvement,AL,"Fully Paid","Manual Review"
+68614009,8200.00,79000.00,16.59,D,D2,672,Good,0.76,"Middle Income",debt_consolidation,MI,"Fully Paid","Manual Review"
+68577205,5400.00,41000.00,5.32,A,A1,772,"Very Good",26.23,"Lower-Middle Income",credit_card,MA,"Fully Paid",Standard
+68436292,25000.00,185000.00,11.48,B,B5,707,Good,14.03,"High Income",debt_consolidation,AZ,"Fully Paid",Standard
+68356205,20000.00,50000.00,12.88,C,C2,662,Fair,4.94,"Lower-Middle Income",debt_consolidation,OH,"Fully Paid",Standard
+68506100,24000.00,75000.00,9.80,B,B3,727,Good,22.94,"Middle Income",debt_consolidation,SC,Current,Standard
+68426149,25500.00,72000.00,11.99,C,C1,717,Good,16.37,"Middle Income",credit_card,NJ,"Fully Paid",Standard
+68416298,13475.00,120000.00,7.91,A,A5,747,"Very Good",19.79,"High Income",other,NJ,"Fully Paid",Standard
+67456183,7200.00,42000.00,8.49,B,B1,692,Good,13.54,"Lower-Middle Income",major_purchase,GA,"Fully Paid",Standard
+68606410,30000.00,124000.00,14.85,C,C5,677,Good,15.61,"High Income",debt_consolidation,NY,"Fully Paid",Standard
+68385297,15000.00,50500.00,8.49,B,B1,782,"Very Good",24.76,"Lower-Middle Income",debt_consolidation,MN,"Fully Paid",Standard
+68577133,21600.00,121000.00,19.48,E,E2,667,Fair,19.93,"High Income",debt_consolidation,KS,"Charged Off","Manual Review"
+68436164,15000.00,100000.00,11.99,C,C1,662,Fair,7.58,"High Income",debt_consolidation,PA,"Fully Paid",Standard
+67565683,11000.00,55000.00,18.99,E,E1,732,Good,0.94,"Lower-Middle Income",moving,NY,"Fully Paid","Manual Review"
+68386391,6400.00,54000.00,13.44,C,C3,682,Good,27.44,"Lower-Middle Income",debt_consolidation,MA,"Charged Off",Standard
+68466281,10000.00,63000.00,8.49,B,B1,692,Good,24.67,"Middle Income",debt_consolidation,TX,"Charged Off",Standard
+68544584,25200.00,90000.00,10.78,B,B4,712,Good,15.45,"Middle Income",debt_consolidation,OH,Current,Standard
+68010309,5725.00,25000.00,6.99,A,A3,702,Good,12.67,"Low Income",debt_consolidation,CA,"Fully Paid",Standard
+68475514,15000.00,58000.00,16.59,D,D2,667,Fair,35.63,"Lower-Middle Income",debt_consolidation,KS,Current,"Manual Review"
+68596146,15600.00,38000.00,8.49,B,B1,712,Good,17.59,"Lower-Middle Income",debt_consolidation,LA,"Charged Off",Standard
+68340428,11400.00,56888.00,14.85,C,C5,677,Good,9.11,"Lower-Middle Income",home_improvement,FL,Current,Standard
+68494769,20000.00,124000.00,17.27,D,D3,672,Good,31.23,"High Income",credit_card,CA,"Charged Off","Manual Review"
+68366017,4550.00,78000.00,10.78,B,B4,672,Good,26.08,"Middle Income",small_business,IN,"Fully Paid",Standard
+68356320,11000.00,75000.00,11.48,B,B5,667,Fair,10.78,"Middle Income",debt_consolidation,MN,"Fully Paid",Standard
+68566236,26825.00,66548.00,18.99,E,E1,687,Good,31.61,"Middle Income",debt_consolidation,MN,"Fully Paid","Manual Review"
+68566185,8375.00,32000.00,13.99,C,C4,662,Fair,7.50,"Lower-Middle Income",debt_consolidation,AR,"Charged Off",Standard
+68546831,25000.00,135000.00,8.49,B,B1,717,Good,22.37,"High Income",debt_consolidation,NY,"Fully Paid",Standard
+68546739,15000.00,50000.00,19.89,E,E3,692,Good,21.87,"Lower-Middle Income",debt_consolidation,GA,"Charged Off","Manual Review"
+68356229,19200.00,60000.00,5.32,A,A1,722,Good,17.84,"Middle Income",credit_card,NY,"Fully Paid",Standard
+68485505,16000.00,70000.00,14.85,C,C5,737,Good,26.16,"Middle Income",small_business,IL,"Fully Paid",Standard
+68514195,18000.00,60000.00,20.50,E,E4,672,Good,34.38,"Middle Income",moving,PA,Current,"Manual Review"
+68366448,24000.00,48000.00,7.49,A,A4,737,Good,16.58,"Lower-Middle Income",credit_card,AZ,"Fully Paid",Standard
+68516183,12000.00,50000.00,5.32,A,A1,772,"Very Good",7.54,"Lower-Middle Income",credit_card,KY,"Fully Paid",Standard
+68465849,14400.00,82000.00,9.17,B,B2,672,Good,12.47,"Middle Income",major_purchase,IN,"Fully Paid",Standard
+68496500,4325.00,40000.00,9.80,B,B3,662,Fair,14.79,"Lower-Middle Income",car,MO,"Fully Paid",Standard
+68356324,7500.00,50000.00,16.59,D,D2,667,Fair,26.76,"Lower-Middle Income",home_improvement,WV,"Fully Paid","Manual Review"
+68384488,25000.00,50000.00,10.78,B,B4,727,Good,39.30,"Lower-Middle Income",credit_card,TX,"Fully Paid","Manual Review"
+68486508,14000.00,120000.00,10.78,B,B4,707,Good,12.52,"High Income",credit_card,TN,"Fully Paid",Standard
+68366314,13000.00,62500.00,13.99,C,C4,702,Good,15.35,"Middle Income",credit_card,MI,Current,Standard
+68426029,3525.00,20000.00,11.48,B,B5,677,Good,25.63,"Low Income",credit_card,FL,"Fully Paid",Standard
+68616109,5400.00,80000.00,9.80,B,B3,667,Fair,18.17,"Middle Income",debt_consolidation,TX,"Charged Off",Standard
+68356182,24000.00,104000.00,23.13,F,F2,667,Fair,24.75,"High Income",debt_consolidation,MD,"Fully Paid","Manual Review"
+68406556,17000.00,52000.00,6.49,A,A2,682,Good,12.29,"Lower-Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68513568,10000.00,90000.00,13.44,C,C3,687,Good,16.28,"Middle Income",credit_card,FL,"Fully Paid",Standard
+68566142,35000.00,150000.00,17.97,D,D4,672,Good,25.11,"High Income",debt_consolidation,PA,"Fully Paid","Manual Review"
+68406337,12000.00,68000.00,8.49,B,B1,742,"Very Good",12.02,"Middle Income",debt_consolidation,NC,"Fully Paid",Standard
+68416279,21600.00,86000.00,14.85,C,C5,687,Good,13.58,"Middle Income",other,MA,"Fully Paid",Standard
+68496486,4000.00,60000.00,15.77,D,D1,697,Good,38.02,"Middle Income",credit_card,VA,"Fully Paid","Manual Review"
+68485339,18000.00,200000.00,5.32,A,A1,777,"Very Good",13.57,"High Income",debt_consolidation,TX,"Fully Paid",Standard
+68366474,20900.00,55000.00,18.49,D,D5,667,Fair,18.96,"Lower-Middle Income",car,MA,"Fully Paid","Manual Review"
+68375884,20825.00,81500.00,16.59,D,D2,677,Good,24.59,"Middle Income",debt_consolidation,GA,"Fully Paid","Manual Review"
+68436296,10175.00,65000.00,9.80,B,B3,692,Good,28.03,"Middle Income",debt_consolidation,FL,"Fully Paid",Standard
+68526156,12000.00,101000.00,16.59,D,D2,687,Good,22.96,"High Income",debt_consolidation,CA,"Fully Paid","Manual Review"
+68476082,20000.00,57000.00,15.77,D,D1,682,Good,21.09,"Lower-Middle Income",debt_consolidation,NC,"Charged Off","Manual Review"
+68423720,4000.00,47000.00,9.80,B,B3,757,"Very Good",19.59,"Lower-Middle Income",home_improvement,IL,"Fully Paid",Standard
+68476013,15000.00,200000.00,10.78,B,B4,712,Good,13.57,"High Income",credit_card,IL,"Charged Off",Standard
+68505311,16000.00,65000.00,18.49,D,D5,682,Good,15.73,"Middle Income",credit_card,GA,"Fully Paid","Manual Review"
+68366427,15500.00,135000.00,8.49,B,B1,687,Good,12.33,"High Income",credit_card,NY,Current,Standard
+68406558,14000.00,132700.00,15.77,D,D1,662,Fair,25.38,"High Income",debt_consolidation,PA,"Fully Paid","Manual Review"
+68506227,4175.00,50720.00,12.88,C,C2,667,Fair,9.16,"Lower-Middle Income",debt_consolidation,MN,"Fully Paid",Standard
+68476104,5000.00,43498.00,11.48,B,B5,662,Fair,26.20,"Lower-Middle Income",debt_consolidation,TX,"Charged Off",Standard
+66140953,20000.00,60000.00,9.17,B,B2,667,Fair,10.45,"Middle Income",credit_card,WA,"Fully Paid",Standard
+68506170,30000.00,202000.00,6.99,A,A3,732,Good,11.65,"High Income",credit_card,NH,"Fully Paid",Standard
+68526310,5500.00,37000.00,11.99,C,C1,722,Good,21.15,"Lower-Middle Income",debt_consolidation,CA,"Fully Paid",Standard
+68484474,30000.00,100000.00,12.88,C,C2,697,Good,16.21,"High Income",debt_consolidation,CA,"Fully Paid",Standard

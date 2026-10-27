@@ -1,0 +1,5 @@
+dti_band,total_loans,defaults,default_rate
+"Very High DTI",43377,10859,25.03
+"High DTI",108679,21899,20.15
+"Moderate DTI",136646,21564,15.78
+"Low DTI",54043,7142,13.22

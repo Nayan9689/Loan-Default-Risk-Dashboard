@@ -1,0 +1,8 @@
+loan_status,COUNT(*)
+"Fully Paid",242672
+"Charged Off",61463
+Current,36646
+"Late (31-120 days)",1192
+"In Grace Period",531
+"Late (16-30 days)",240
+Default,1

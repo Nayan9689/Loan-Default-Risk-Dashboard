@@ -1,0 +1,8 @@
+loan_status,loan_count,percentage
+"Fully Paid",242672,70.80
+"Charged Off",61463,17.93
+Current,36646,10.69
+"Late (31-120 days)",1192,0.35
+"In Grace Period",531,0.15
+"Late (16-30 days)",240,0.07
+Default,1,0.00

@@ -1,0 +1,221 @@
+grade,fico_band,dti_band,income_band,total_loans,defaults,default_rate,avg_loan_amount,avg_interest_rate
+F,Fair,"Very High DTI","Middle Income",120,71,59.17,24119.38,23.51
+G,Fair,"High DTI","Lower-Middle Income",102,58,56.86,15690.44,26.95
+F,Fair,"Very High DTI","Lower-Middle Income",241,126,52.28,14867.22,23.46
+F,Good,"Very High DTI","Middle Income",322,168,52.17,25115.45,23.30
+G,Good,"High DTI","Middle Income",142,70,49.30,25320.77,27.21
+F,Fair,"High DTI","Lower-Middle Income",376,184,48.94,14272.07,23.60
+F,Fair,"High DTI","Middle Income",375,183,48.80,22408.07,23.74
+G,Good,"Moderate DTI","Lower-Middle Income",144,70,48.61,16609.20,27.23
+G,Good,"High DTI","Lower-Middle Income",199,92,46.23,15583.92,27.15
+F,Fair,"High DTI","High Income",125,56,44.80,28384.80,23.43
+F,Fair,"Moderate DTI","Lower-Middle Income",269,120,44.61,13868.96,23.65
+F,Good,"Moderate DTI","Lower-Middle Income",565,247,43.72,15174.82,23.52
+F,Fair,"Moderate DTI","High Income",180,78,43.33,26818.06,23.64
+G,Good,"Moderate DTI","Middle Income",144,62,43.06,24793.58,27.08
+F,Good,"High DTI","Lower-Middle Income",888,381,42.91,15561.26,23.59
+F,Good,"High DTI","High Income",281,120,42.70,30078.38,23.30
+F,Good,"Very High DTI","Lower-Middle Income",555,237,42.70,16088.96,23.40
+F,Good,"Moderate DTI","Middle Income",653,276,42.27,23395.25,23.60
+F,Good,"High DTI","Middle Income",829,336,40.53,24614.20,23.52
+E,Fair,"Very High DTI","Lower-Middle Income",799,323,40.43,14078.22,19.25
+F,Good,"Low DTI","Middle Income",221,89,40.27,20282.81,23.49
+E,Fair,"Very High DTI","Middle Income",410,165,40.24,21604.09,19.17
+E,Fair,"High DTI","Lower-Middle Income",1268,502,39.59,13556.57,19.25
+F,Fair,"Moderate DTI","Middle Income",328,128,39.02,21264.41,23.51
+E,Fair,"High DTI","Middle Income",1004,389,38.75,20461.58,19.25
+E,Fair,"High DTI","High Income",312,120,38.46,25815.14,19.25
+E,Good,"High DTI","Low Income",401,151,37.66,7557.92,19.06
+E,Good,"High DTI","Lower-Middle Income",2883,1079,37.43,14831.11,19.24
+E,Fair,"High DTI","Low Income",163,61,37.42,7341.41,19.15
+E,Fair,"Moderate DTI","Lower-Middle Income",994,372,37.42,13029.23,19.23
+E,Good,"Very High DTI","Lower-Middle Income",2335,863,36.96,15377.28,19.17
+E,Good,"Very High DTI","Middle Income",1452,534,36.78,24200.64,19.05
+E,Fair,"Very High DTI","Low Income",178,63,35.39,8143.96,19.32
+E,Good,"Very High DTI","High Income",277,98,35.38,29726.62,19.10
+E,Fair,"Moderate DTI","Low Income",133,47,35.34,7143.98,19.17
+E,Good,"Very High DTI","Low Income",487,172,35.32,8527.41,19.08
+E,Good,"High DTI","Middle Income",2736,942,34.43,22720.09,19.24
+D,Fair,"Very High DTI","Middle Income",681,232,34.07,17261.64,16.88
+D,Fair,"Very High DTI","Lower-Middle Income",1319,443,33.59,11862.32,16.84
+F,Good,"Low DTI","Lower-Middle Income",143,48,33.57,14475.87,23.56
+E,Good,"Moderate DTI","Lower-Middle Income",1934,647,33.45,14031.64,19.23
+D,Fair,"High DTI","Low Income",391,130,33.25,6521.74,16.78
+F,Good,"Moderate DTI","High Income",452,150,33.19,28845.96,23.46
+E,Fair,"Moderate DTI","Middle Income",1097,358,32.63,18279.38,19.23
+E,Fair,"Moderate DTI","High Income",546,176,32.23,23956.36,19.23
+D,Fair,"High DTI","High Income",452,144,31.86,22847.90,16.81
+D,Fair,"High DTI","Middle Income",1453,458,31.52,17029.40,16.82
+E,Fair,"Low DTI","Lower-Middle Income",291,91,31.27,11522.16,19.14
+D,"Very Good","High DTI","Middle Income",106,33,31.13,23252.59,16.81
+E,Good,"Moderate DTI","Middle Income",2570,800,31.13,21314.08,19.20
+D,Fair,"High DTI","Lower-Middle Income",2056,637,30.98,11644.56,16.75
+D,Fair,"Very High DTI","Low Income",352,109,30.97,6921.24,16.80
+D,Good,"Very High DTI","Middle Income",2687,832,30.96,20534.02,16.77
+E,Good,"High DTI","High Income",1001,309,30.87,27826.35,19.23
+E,Good,"Low DTI","Middle Income",642,198,30.84,19062.42,19.13
+D,Good,"Very High DTI","Lower-Middle Income",4082,1231,30.16,13365.48,16.80
+F,Good,"Low DTI","High Income",180,54,30.00,27667.50,23.48
+D,Good,"Very High DTI","Low Income",898,260,28.95,7524.08,16.78
+D,Good,"High DTI","Lower-Middle Income",5148,1487,28.89,13279.81,16.75
+D,Fair,"Moderate DTI","Lower-Middle Income",1912,550,28.77,10549.63,16.72
+D,Good,"High DTI","Low Income",967,274,28.34,7140.74,16.76
+E,Good,"Moderate DTI","High Income",1513,427,28.22,27216.75,19.24
+E,Fair,"Low DTI","Middle Income",343,96,27.99,16647.96,19.32
+D,Good,"High DTI","Middle Income",4171,1165,27.93,20643.28,16.78
+E,Fair,"Low DTI","High Income",280,78,27.86,22769.82,19.31
+E,Good,"Low DTI","Lower-Middle Income",607,169,27.84,12697.86,19.15
+E,Good,"Moderate DTI","Low Income",308,84,27.27,7557.14,19.18
+D,Good,"Moderate DTI","Lower-Middle Income",3903,1049,26.88,12395.98,16.70
+C,Fair,"Very High DTI","Middle Income",671,179,26.68,14032.41,13.48
+D,Good,"Moderate DTI","Low Income",761,203,26.68,6768.20,16.73
+E,Good,"Low DTI","High Income",598,158,26.42,24542.85,19.18
+D,Fair,"Moderate DTI","Middle Income",1898,501,26.40,15556.28,16.71
+D,Good,"Very High DTI","High Income",643,169,26.28,26576.94,16.72
+C,Fair,"Very High DTI","Lower-Middle Income",1327,347,26.15,10236.87,13.43
+D,Fair,"Moderate DTI","Low Income",314,81,25.80,6438.54,16.73
+D,Good,"Moderate DTI","Middle Income",4226,1082,25.60,18756.15,16.74
+C,Fair,"Very High DTI","Low Income",294,74,25.17,6498.04,13.38
+D,Fair,"Low DTI","Middle Income",664,164,24.70,13451.58,16.70
+D,Fair,"Moderate DTI","High Income",885,217,24.52,21390.03,16.75
+D,"Very Good","High DTI","Lower-Middle Income",128,31,24.22,14799.80,16.70
+C,Fair,"Moderate DTI","Low Income",552,133,24.09,6161.23,13.30
+C,Fair,"High DTI","Lower-Middle Income",3361,808,24.04,10232.76,13.31
+D,Fair,"Low DTI","Lower-Middle Income",597,142,23.79,9176.13,16.63
+C,Fair,"High DTI","Low Income",593,141,23.78,6283.22,13.40
+D,Good,"High DTI","High Income",1460,347,23.77,26135.63,16.79
+D,Good,"Low DTI","Lower-Middle Income",1190,280,23.53,10638.03,16.70
+C,Fair,"High DTI","Middle Income",2485,582,23.42,14876.84,13.31
+C,Fair,"Very High DTI","High Income",137,32,23.36,19464.42,13.42
+C,Fair,"Low DTI","Low Income",199,46,23.12,5463.32,13.30
+D,Good,"Low DTI","Middle Income",1170,269,22.99,16240.36,16.69
+D,Good,"Low DTI","High Income",1106,252,22.78,23018.11,16.75
+D,Good,"Moderate DTI","High Income",2368,539,22.76,25121.98,16.78
+D,"Very Good","Moderate DTI","Lower-Middle Income",119,27,22.69,14040.55,16.65
+C,Good,"Very High DTI","Lower-Middle Income",5275,1175,22.27,11577.08,13.39
+D,Good,"Low DTI","Low Income",270,60,22.22,5915.37,16.71
+D,Fair,"Low DTI","High Income",517,114,22.05,19708.08,16.71
+C,Good,"High DTI","Low Income",1553,337,21.70,6668.01,13.26
+C,Good,"High DTI","Lower-Middle Income",10125,2191,21.64,11783.33,13.27
+C,"Very Good","High DTI","Middle Income",427,92,21.55,21426.70,13.20
+C,Good,"Very High DTI","Low Income",1071,229,21.38,6715.27,13.41
+C,Good,"Very High DTI","Middle Income",3608,752,20.84,17743.95,13.39
+C,Fair,"Moderate DTI","Lower-Middle Income",3500,726,20.74,9576.19,13.27
+C,Good,"Moderate DTI","Low Income",1383,283,20.46,6685.95,13.25
+C,Fair,"High DTI","High Income",729,149,20.44,20496.88,13.32
+C,Good,"High DTI","Middle Income",9073,1830,20.17,18025.07,13.25
+B,Fair,"Very High DTI","Middle Income",241,48,19.92,11973.13,10.61
+C,"Very Good","High DTI","High Income",186,37,19.89,28471.64,13.13
+D,Fair,"Very High DTI","High Income",112,22,19.64,23720.76,16.84
+C,Good,"Very High DTI","High Income",902,176,19.51,23483.98,13.37
+C,Good,"Moderate DTI","Lower-Middle Income",8950,1737,19.41,11073.43,13.21
+C,"Very Good","High DTI","Lower-Middle Income",414,80,19.32,13327.96,13.19
+C,Good,"Low DTI","Low Income",527,101,19.17,5590.32,13.27
+C,Fair,"Moderate DTI","Middle Income",3681,700,19.02,13574.65,13.27
+D,"Very Good","Very High DTI","Lower-Middle Income",140,26,18.57,14155.71,16.46
+C,Fair,"Low DTI","Lower-Middle Income",1185,216,18.23,8686.16,13.22
+B,Fair,"Low DTI","Low Income",143,26,18.18,5584.09,10.29
+B,Fair,"Very High DTI","Lower-Middle Income",392,71,18.11,9576.21,10.52
+C,Good,"Low DTI","Lower-Middle Income",2944,530,18.00,9724.94,13.19
+C,Fair,"Low DTI","Middle Income",1382,247,17.87,12301.77,13.24
+B,Fair,"High DTI","Low Income",241,43,17.84,6141.08,10.32
+C,Good,"High DTI","High Income",3644,647,17.76,24011.61,13.25
+C,Fair,"Moderate DTI","High Income",1737,305,17.56,18711.02,13.27
+C,Good,"Moderate DTI","Middle Income",10395,1795,17.27,16592.13,13.21
+C,"Very Good","Very High DTI","Lower-Middle Income",242,41,16.94,13268.29,13.19
+C,"Very Good","Moderate DTI","Middle Income",499,83,16.63,21163.83,13.18
+C,Fair,"Low DTI","High Income",1027,166,16.16,17412.51,13.28
+B,Fair,"High DTI","High Income",437,70,16.02,16307.32,10.14
+C,"Very Good","Very High DTI","Middle Income",213,33,15.49,21098.12,13.12
+C,Good,"Moderate DTI","High Income",6368,985,15.47,23115.75,13.21
+D,"Very Good","Moderate DTI","Middle Income",110,17,15.45,24080.23,16.71
+C,Good,"Low DTI","High Income",2752,425,15.44,21064.07,13.24
+C,"Very Good","Low DTI","Middle Income",221,34,15.38,17260.52,13.23
+B,Good,"Very High DTI","Low Income",475,73,15.37,6684.79,10.29
+C,Good,"Low DTI","Middle Income",2992,459,15.34,14390.52,13.18
+B,Fair,"High DTI","Middle Income",1540,236,15.32,12508.39,10.16
+B,Fair,"High DTI","Lower-Middle Income",1918,291,15.17,9174.06,10.24
+B,Good,"High DTI","Low Income",1147,166,14.47,6603.73,10.23
+C,"Very Good","Low DTI","High Income",231,33,14.29,26105.19,13.22
+B,Good,"Moderate DTI","Low Income",1117,159,14.23,6606.87,10.16
+B,Good,"Very High DTI","Middle Income",2464,349,14.16,15774.37,10.19
+B,Fair,"Moderate DTI","High Income",1373,188,13.69,15839.71,10.00
+C,"Very Good","Moderate DTI","High Income",321,43,13.40,27043.30,13.11
+B,Good,"Very High DTI","Lower-Middle Income",2997,396,13.21,10916.77,10.20
+B,Fair,"Moderate DTI","Middle Income",3043,401,13.18,11803.61,10.00
+C,"Very Good","Moderate DTI","Lower-Middle Income",381,50,13.12,12389.17,13.23
+B,Good,"High DTI","Lower-Middle Income",9033,1183,13.10,10926.46,10.07
+E,Good,"Low DTI","Low Income",115,15,13.04,6624.57,19.15
+B,Good,"High DTI","Middle Income",9014,1171,12.99,16449.20,10.01
+B,Fair,"Moderate DTI","Lower-Middle Income",2636,341,12.94,8806.50,10.13
+B,Good,"Very High DTI","High Income",802,102,12.72,20326.06,10.05
+A,Fair,"High DTI","Middle Income",127,16,12.60,12588.98,7.48
+B,Good,"Moderate DTI","Lower-Middle Income",9311,1146,12.31,10348.13,10.03
+B,Good,"High DTI","High Income",3966,480,12.10,22027.76,9.96
+B,Fair,"Moderate DTI","Low Income",298,35,11.74,6293.96,10.35
+B,"Very Good","High DTI","Lower-Middle Income",906,106,11.70,13085.13,9.70
+B,"Very Good","Very High DTI","Middle Income",293,34,11.60,18135.15,9.96
+B,Good,"Moderate DTI","Middle Income",12368,1421,11.49,14973.65,9.93
+B,Fair,"Low DTI","Lower-Middle Income",1116,126,11.29,7842.29,10.01
+C,"Very Good","Low DTI","Lower-Middle Income",205,23,11.22,11529.51,13.12
+B,Good,"Low DTI","Low Income",432,48,11.11,5483.85,10.14
+B,"Very Good","Very High DTI","Lower-Middle Income",369,41,11.11,12005.56,9.87
+B,Fair,"Low DTI","Middle Income",1434,159,11.09,10542.33,9.95
+A,"Very Good","High DTI","Low Income",119,13,10.92,7001.68,6.77
+B,Excellent,"Moderate DTI","Middle Income",110,12,10.91,20983.64,9.52
+B,Good,"Low DTI","Lower-Middle Income",3266,338,10.35,9083.71,10.04
+B,Good,"Low DTI","Middle Income",4172,414,9.92,13020.16,9.88
+B,Fair,"Low DTI","High Income",1015,100,9.85,14119.63,9.88
+A,Good,"Very High DTI","Middle Income",674,64,9.50,15389.28,7.29
+B,Good,"Low DTI","High Income",3825,357,9.33,18820.37,9.83
+B,Good,"Moderate DTI","High Income",8170,751,9.19,20822.74,9.88
+B,"Very Good","High DTI","High Income",382,35,9.16,25961.06,9.69
+B,"Very Good","High DTI","Middle Income",981,89,9.07,19879.33,9.64
+A,Fair,"Moderate DTI","High Income",213,19,8.92,15730.99,7.37
+A,Fair,"High DTI","Lower-Middle Income",139,12,8.63,9290.11,7.45
+A,Good,"Moderate DTI","Low Income",326,28,8.59,7035.28,7.24
+A,Good,"High DTI","Low Income",304,26,8.55,6807.32,7.19
+A,Good,"Very High DTI","Lower-Middle Income",620,53,8.55,11006.25,7.38
+A,Good,"Very High DTI","High Income",300,25,8.33,18615.50,7.19
+B,"Very Good","Low DTI","Middle Income",493,40,8.11,16999.80,9.68
+A,Good,"High DTI","Lower-Middle Income",3881,312,8.04,10823.65,7.14
+B,"Very Good","Moderate DTI","Lower-Middle Income",851,68,7.99,12190.95,9.68
+B,"Very Good","Low DTI","Lower-Middle Income",389,30,7.71,10545.69,9.80
+A,Good,"High DTI","Middle Income",4943,380,7.69,15496.49,7.06
+A,Fair,"Moderate DTI","Lower-Middle Income",198,15,7.58,8666.67,7.48
+B,"Very Good","Moderate DTI","Middle Income",1249,93,7.45,18394.30,9.54
+A,Fair,"Low DTI","Middle Income",166,12,7.23,10328.46,7.31
+A,Fair,"Moderate DTI","Middle Income",347,25,7.20,11920.61,7.48
+A,Fair,"Low DTI","Lower-Middle Income",128,9,7.03,8104.69,7.37
+B,"Very Good","Moderate DTI","High Income",878,55,6.26,24855.64,9.64
+A,Good,"Moderate DTI","Lower-Middle Income",4677,290,6.20,10147.45,7.11
+B,"Very Good","Low DTI","High Income",517,32,6.19,22911.65,9.57
+A,Good,"High DTI","High Income",2630,162,6.16,20029.11,6.98
+A,"Very Good","Very High DTI","Lower-Middle Income",248,15,6.05,10887.80,7.17
+A,Fair,"Low DTI","High Income",172,10,5.81,13471.95,7.34
+A,Good,"Moderate DTI","Middle Income",8091,466,5.76,14315.88,6.99
+A,Good,"Low DTI","Lower-Middle Income",1677,95,5.66,9029.59,7.12
+A,Good,"Low DTI","Low Income",137,7,5.11,5902.37,7.23
+A,Good,"Moderate DTI","High Income",6579,320,4.86,19341.37,6.93
+B,"Very Good","Moderate DTI","Low Income",105,5,4.76,6708.57,9.94
+A,"Very Good","High DTI","Lower-Middle Income",1280,60,4.69,10995.33,6.66
+A,"Very Good","High DTI","Middle Income",1552,70,4.51,16234.21,6.61
+A,Good,"Low DTI","High Income",3402,152,4.47,17699.60,6.90
+A,"Very Good","Moderate DTI","Lower-Middle Income",1562,69,4.42,10790.51,6.56
+A,Good,"Low DTI","Middle Income",2979,128,4.30,12355.49,6.96
+A,Excellent,"High DTI","Middle Income",191,8,4.19,16092.80,6.31
+A,"Very Good","Moderate DTI","Low Income",122,5,4.10,6692.62,6.86
+A,"Very Good","High DTI","High Income",704,28,3.98,21221.34,6.58
+A,Excellent,"Moderate DTI","Lower-Middle Income",201,7,3.48,10365.17,6.26
+A,"Very Good","Very High DTI","Middle Income",246,8,3.25,15799.29,7.00
+A,"Very Good","Moderate DTI","Middle Income",2795,90,3.22,15165.77,6.45
+A,"Very Good","Moderate DTI","High Income",2166,68,3.14,20605.41,6.44
+A,"Very Good","Low DTI","Lower-Middle Income",692,20,2.89,9131.61,6.57
+A,Excellent,"Moderate DTI","High Income",321,9,2.80,19019.63,6.11
+A,Excellent,"Low DTI","Lower-Middle Income",150,4,2.67,9475.33,6.28
+A,Excellent,"Low DTI","Middle Income",281,7,2.49,14024.82,6.17
+A,"Very Good","Low DTI","High Income",1621,40,2.47,18809.92,6.34
+A,"Very Good","Low DTI","Middle Income",1196,28,2.34,13354.91,6.44
+A,Excellent,"Moderate DTI","Middle Income",391,8,2.05,14265.66,6.16
+A,Excellent,"High DTI","Lower-Middle Income",118,2,1.69,9743.64,6.39
+A,Excellent,"Low DTI","High Income",431,6,1.39,18780.86,6.11
